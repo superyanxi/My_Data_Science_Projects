@@ -9,4 +9,4 @@ Project_Natural_Language_Processing:Building a Journal Finder for Academic ML Re
 
 Project_Regression_Analysis: Analysis of Factors Affecting University Ranking :pencil2:
 
-To learn more about me, please visit my [linked page](www.linkedin.com/in/yanxi-lu)
+To learn more about me, please visit my [linked page](https://www.linkedin.com/in/yanxi-lu)
