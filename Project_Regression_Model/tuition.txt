@@ -1,0 +1,3183 @@
+1   Stanford University
+California
+$44,757	$13,631	$83,400
+2	Harvard University
+Massachusetts
+Explore	$43,938	$14,669	$91,300
+3	Massachusetts Institute of Technology
+Massachusetts
+Explore	$45,016	$13,224	$90,400
+4	University of Pennsylvania
+Pennsylvania
+Explore	$47,668	$13,464	$78,900
+5	Columbia University
+New York
+Explore	$51,008	$12,432	$74,000
+6	Yale University
+Connecticut
+Explore	$45,800	$14,000	$70,100
+7	Duke University
+North Carolina
+Explore	$47,243	$13,290	$76,700
+8	Cornell University
+New York
+Explore	$47,286	$13,680	$71,500
+9	Princeton University
+New Jersey
+Explore	$41,820	$13,620	$76,500
+10	Northwestern University
+Illinois
+Explore	$47,251	$14,389	$64,200
+11	Washington University in St Louis
+Missouri
+Explore	$46,467	$14,377	$62,500
+12	California Institute of Technology
+California
+Explore	$43,362	$12,918	$75,900
+13	Johns Hopkins University
+Maryland
+Explore	$47,060	$14,246	$67,500
+14	University of Chicago
+Illinois
+Explore	$48,252	$14,215	$63,400
+15	Dartmouth College
+New Hampshire
+Explore	$48,108	$13,839	$67,400
+16	Carnegie Mellon University
+Pennsylvania
+Explore	$49,022	$12,400	$74,100
+17	University of Southern California
+California
+Explore	$48,280	$13,334	$66,900
+18	Emory University
+Georgia
+Explore	$45,008	$12,760	$59,200
+19	Brown University
+Rhode Island
+Explore	$47,434	$11,994	$59,700
+20	Vanderbilt University
+Tennessee
+Explore	$43,838	$14,382	$60,800
+21	Rice University
+Texas
+Explore	$40,566	$13,400	$62,200
+22	University of Michigan
+Michigan
+Explore	$43,377	$10,246	$57,600
+=23	Amherst College
+Massachusetts
+Explore	$48,526	$12,680	$56,500
+=23	Williams College
+Massachusetts
+Explore	$48,310	$12,760	$56,100
+25	University of Notre Dame
+Indiana
+Explore	$46,237	$13,224	$69,700
+=26	Georgetown University
+District of Columbia
+Explore	$46,744	$14,024	$83,600
+=26	New York University
+New York
+Explore	$46,170	$16,782	$58,800
+28	University of California, Los Angeles
+California
+Explore	$35,583	$14,511	$59,400
+29	Wellesley College
+Massachusetts
+Explore	$45,078	$13,960	$56,600
+30	University of North Carolina at Chapel Hill
+North Carolina
+Explore	$33,418	$10,592	$50,700
+31	Tufts University
+Massachusetts
+Explore	$48,643	$12,634	$66,400
+32	Pomona College
+California
+Explore	$45,832	$14,700	$52,000
+=33	Smith College
+Massachusetts
+Explore	$44,724	$14,950	$43,500
+=33	Swarthmore College
+Pennsylvania
+Explore	$46,060	$13,550	$48,900
+=35	University of California, Berkeley
+California
+Explore	$35,850	$15,830	$61,700
+=35	Haverford College
+Pennsylvania
+Explore	$47,214	$14,350	$56,100
+37	Case Western Reserve University
+Ohio
+Explore	$43,158	$13,376	$67,800
+38	Boston University
+Massachusetts
+Explore	$46,664	$14,030	$60,000
+=39	Bryn Mawr College
+Pennsylvania
+Explore	$45,540	$14,350	$52,000
+=39	Carleton College
+Minnesota
+Explore	$47,736	$12,366	$47,800
+=39	Purdue University
+Indiana
+Explore	$28,804	$10,030	$53,400
+42	Middlebury College
+Vermont
+Explore	$46,044	$13,116	$54,200
+=43	University of California, Davis
+California
+Explore	$36,774	$14,316	$56,700
+=43	University of Miami
+Florida
+Explore	$44,350	$12,684	$53,400
+45	University of Illinois at Urbana-Champaign
+Illinois
+Explore	$32,621	$10,848	$56,600
+46	Bowdoin College
+Maine
+Explore	$46,808	$12,760	$55,000
+47	Wesleyan University
+Connecticut
+Explore	$47,972	$13,226	$49,600
+48	University of California, San Diego
+California
+Explore	$36,305	$12,254	$59,300
+49	Claremont McKenna College
+California
+Explore	$47,395	$14,820	$66,400
+50	University of Virginia
+Virginia
+Explore	$42,394	$10,052	$59,300
+51	Bucknell University
+Pennsylvania
+Explore	$48,498	$11,642	$68,900
+=52	Georgia Institute of Technology
+Georgia
+Explore	$30,698	$10,434	$74,200
+=52	Lehigh University
+Pennsylvania
+Explore	$44,890	$11,880	$76,700
+=52	University of Texas at Austin
+Texas
+Explore	$34,836	$11,456	$52,900
+55	Wake Forest University
+North Carolina
+Explore	$46,200	$12,638	$60,400
+56	Tulane University
+Louisiana
+Explore	$48,306	$12,556	$52,600
+57	University of Pittsburgh
+Pennsylvania
+Explore	$28,168	$10,800	$48,500
+=58	Colgate University
+New York
+Explore	$48,175	$11,970	$60,900
+=58	University of Florida
+Florida
+Explore	$28,591	$9,630	$51,200
+=58	George Washington University
+District of Columbia
+Explore	$46,725	$11,700	$64,900
+=58	University of Rochester
+New York
+Explore	$46,960	$13,708	$55,900
+62	Michigan State University
+Michigan
+Explore	$35,516	$9,204	$49,800
+63	University of Wisconsin-Madison
+Wisconsin
+Explore	$26,660	$8,546	$51,300
+64	Hamilton College
+New York
+Explore	$47,820	$12,150	$56,000
+65	Davidson College
+North Carolina
+Explore	$45,377	$12,769	$55,100
+=66	Colby College
+Maine
+Explore	$47,350	$12,150	$52,600
+=66	Oberlin College
+Ohio
+Explore	$48,682	$13,106	$39,300
+=68	Boston College
+Massachusetts
+Explore	$47,436	$13,186	$66,800
+=68	Ohio State University
+Ohio
+Explore	$26,537	$11,820	$42,700
+70	Trinity College
+Connecticut
+Explore	$49,056	$12,700	$55,400
+71	Northeastern University
+Massachusetts
+Explore	$43,440	$14,050	$60,900
+72	Lafayette College
+Pennsylvania
+Explore	$45,635	$13,520	$69,300
+73	Macalester College
+Minnesota
+Explore	$47,195	$10,496	$46,100
+74	University of Richmond
+Virginia
+Explore	$46,680	$10,790	$60,300
+75	University of Washington
+Washington
+Explore	$33,513	$10,833	$52,900
+76	Barnard College
+New York
+Explore	$46,040	$14,660	$57,100
+77	Bates College
+Maine
+Explore	$47,030	$13,690	$52,500
+78	Vassar College
+New York
+Explore	$49,570	$11,570	$48,200
+79	Worcester Polytechnic Institute
+Massachusetts
+Explore	$44,222	$13,082	$78,900
+80	Mount Holyoke College
+Massachusetts
+Explore	$42,656	$12,490	$44,100
+81	Grinnell College
+Iowa
+Explore	$45,620	$10,997	$44,300
+=82	Trinity University
+Texas
+Explore	$36,214	$11,936	$53,600
+=82	William & Mary
+Virginia
+Explore	$39,916	$10,344	$55,700
+84	Brandeis University
+Massachusetts
+Explore	$47,475	$13,192	$57,800
+=85	College of the Holy Cross
+Massachusetts
+Explore	$45,692	$12,350	$63,400
+=85	Rensselaer Polytechnic Institute
+New York
+Explore	$47,908	$13,620	$80,600
+=85	Washington and Lee University
+Virginia
+Explore	$45,617	$10,645	$75,200
+=88	Southern Methodist University
+Texas
+Explore	$45,940	$14,645	$53,400
+=88	Texas A&M University
+Texas
+Explore	$26,583	$9,522	$53,400
+90	Denison University
+Ohio
+Explore	$45,670	$11,180	$49,000
+91	Scripps College
+California
+Explore	$47,378	$14,562	$47,500
+92	Franklin and Marshall College
+Pennsylvania
+Explore	$48,514	$12,285	$53,700
+93	Drexel University
+Pennsylvania
+Explore	$42,164	$14,367	$61,800
+94	Union College
+New York
+Explore	$48,384	$11,856	$62,900
+95	Kenyon College
+Ohio
+Explore	$47,330	$11,560	$44,200
+96	University of Maryland, College Park
+Maryland
+Explore	$29,720	$10,633	$59,800
+97	Rose-Hulman Institute of Technology
+Indiana
+Explore	$41,283	$12,057	$79,000
+98	DePauw University
+Indiana
+Explore	$42,746	$11,200	$47,700
+99	University of Minnesota
+Minnesota
+Explore	$20,810	$8,920	$48,000
+=100	Connecticut College
+Connecticut
+Explore	$47,740	$13,155	$51,300
+=100	Villanova University
+Pennsylvania
+Explore	$45,966	$12,278	$73,800
+102	Occidental College
+California
+Explore	$47,522	$13,450	$49,300
+103	Syracuse University
+New York
+Explore	$41,886	$14,460	$56,600
+=104	Bentley University
+Massachusetts
+Explore	$42,511	$13,949	$75,900
+=104	University of Denver
+Colorado
+Explore	$42,090	$11,109	$51,500
+=104	Santa Clara University
+California
+Explore	$43,812	$12,921	$67,600
+=107	Howard University
+District of Columbia
+Explore	$23,970	$13,646	$46,200
+=107	Pennsylvania State University
+Pennsylvania
+Explore	$30,452	$10,548	$47,600
+=109	Loyola Marymount University
+California
+Explore	$41,372	$12,290	$54,800
+=109	Saint Louis University
+Missouri
+Explore	$37,966	$10,380	$54,500
+=109	Stevens Institute of Technology
+New Jersey
+Explore	$45,366	$14,214	$83,200
+=112	Brigham Young University-Provo
+Utah
+Explore	$5,000	$7,330	$57,300
+=112	Dickinson College
+Pennsylvania
+Explore	$47,692	$11,972	$52,700
+114	University of California, Santa Barbara
+California
+Explore	$36,743	$14,523	$51,700
+115	Creighton University
+Nebraska
+Explore	$35,360	$9,996	$57,400
+=116	University of Connecticut
+Connecticut
+Explore	$32,880	$12,074	$53,900
+=116	The College of Wooster
+Ohio
+Explore	$43,350	$10,250	$45,400
+118	Rutgers, the State University of New Jersey
+New Jersey
+Explore	$28,591	$11,749	$54,600
+119	Rhode Island School of Design
+Rhode Island
+Explore	$44,594	$12,640	$45,800
+=120	Babson College
+Massachusetts
+Explore	$45,120	$14,494	$86,100
+=120	Pepperdine University
+California
+Explore	$46,692	$13,390	$60,300
+=120	Seattle University
+Washington
+Explore	$38,205	$10,830	$55,500
+123	Gettysburg College
+Pennsylvania
+Explore	$47,480	$11,340	$52,400
+=124	Indiana University
+Indiana
+Explore	$33,241	$9,493	$45,000
+=124	University of the Pacific
+California
+Explore	$41,342	$12,582	$67,300
+126	Furman University
+South Carolina
+Explore	$44,668	$11,204	$47,100
+=127	University of Illinois at Chicago
+Illinois
+Explore	$26,864	$10,871	$51,300
+=127	Illinois Institute of Technology
+Illinois
+Explore	$40,052	$10,887	$68,700
+129	Yeshiva University
+New York
+Explore	$38,730	$11,250	$55,800
+130	Spelman College
+Georgia
+Explore	$25,496	$11,945	$46,200
+131	Allegheny College
+Pennsylvania
+Explore	$40,660	$10,320	$48,800
+132	Arizona State University
+Arizona
+Explore	$24,503	$10,010	$45,100
+133	Art Center College of Design
+California
+Explore	$37,830	n/a	$53,900
+134	Virginia Polytechnic Institute and State University
+Virginia
+Explore	$28,048	$8,270	$58,400
+=135	Drake University
+Iowa
+Explore	$32,246	$9,270	$55,700
+=135	Illinois Wesleyan University
+Illinois
+Explore	$40,844	$9,446	$54,500
+=137	Pitzer College
+California
+Explore	$47,020	$14,730	$45,200
+=137	Wheaton College
+Massachusetts
+Explore	$46,423	$11,840	$45,200
+=137	Willamette University
+Oregon
+Explore	$44,076	$10,820	$49,200
+140	Gustavus Adolphus College
+Minnesota
+Explore	$40,400	$9,110	$49,500
+141	University of Iowa
+Iowa
+Explore	$27,409	$9,614	$48,900
+142	University of California, Irvine
+California
+Explore	$36,057	$12,638	$55,100
+143	Rochester Institute of Technology
+New York
+Explore	$35,768	$11,568	$58,100
+=144	St Olaf College
+Minnesota
+Explore	$41,700	$9,500	$44,900
+=144	Stony Brook University
+New York
+Explore	$21,850	$11,648	$55,200
+146	Marquette University
+Wisconsin
+Explore	$35,930	$11,000	$55,800
+=147	University at Buffalo
+New York
+Explore	$22,291	$12,400	$49,000
+=147	University of Delaware
+Delaware
+Explore	$30,692	$11,558	$54,600
+=147	Hobart William Smith Colleges
+New York
+Explore	$47,908	$12,126	$48,600
+150	Butler University
+Indiana
+Explore	$35,652	$11,920	$53,700
+=151	Loyola University Chicago
+Illinois
+Explore	$37,412	$13,110	$50,600
+=151	Skidmore College
+New York
+Explore	$47,314	$12,628	$43,000
+153	Rhodes College
+Tennessee
+Explore	$41,572	$10,328	$51,000
+=154	Colorado College
+Colorado
+Explore	$46,410	$10,752	$40,400
+=154	Ohio Northern University
+Ohio
+Explore	$28,050	$10,910	$56,200
+=156	Kalamazoo College
+Michigan
+Explore	$41,161	$8,679	$50,500
+=156	Reed College
+Oregon
+Explore	$47,760	$12,200	$35,700
+158	Centre College
+Kentucky
+Explore	$37,120	$9,340	$44,100
+=159	American University
+District of Columbia
+Explore	$41,833	$15,308	$55,900
+=159	Clarkson University
+New York
+Explore	$42,530	$13,440	$68,300
+=159	North Carolina State University
+North Carolina
+Explore	$23,551	$10,030	$47,500
+=159	University of Puget Sound
+Washington
+Explore	$43,428	$11,180	$50,400
+=163	Muhlenberg College
+Pennsylvania
+Explore	$44,145	$10,335	$56,100
+=163	Rutgers University-Newark
+New Jersey
+Explore	$28,075	$12,509	$54,600
+165	Elon University
+North Carolina
+Explore	$31,247	$10,667	$45,500
+=166	Colorado School of Mines
+Connecticut
+Explore	$33,598	$10,484	$75,200
+=166	Fairfield University
+Connecticut
+Explore	$43,770	$13,190	$68,700
+=166	Florida Institute of Technology
+Florida
+Explore	$37,990	$13,110	$54,100
+=169	Bradley University
+Illinois
+Explore	$30,844	$9,420	$51,900
+=169	Saint Mary's College
+Illinois
+Explore	$35,970	$10,930	$46,000
+=169	University of the Sciences
+Pennsylvania
+Explore	$36,096	$14,288	$90,800
+=172	University of Arizona
+Arizona
+Explore	$28,379	$9,700	$44,200
+=172	Fordham University
+New York
+Explore	$45,238	$15,965	$55,800
+=172	University of Massachusetts-Amherst
+Massachusetts
+Explore	$28,813	$10,957	$49,400
+175	University of Colorado Boulder
+Colorado
+Explore	$33,151	$12,810	$47,800
+=176	University of San Diego
+California
+Explore	$42,908	$11,910	$56,600
+=176	St Lawrence University
+New York
+Explore	$47,696	$12,286	$45,500
+=178	Loyola University Maryland
+Maryland
+Explore	$44,090	$13,385	$62,500
+=178	Simmons College
+Massachusetts
+Explore	$36,230	$13,736	$51,000
+=180	Albion College
+Michigan
+Explore	$37,300	$10,550	$45,000
+=180	Lawrence University
+Wisconsin
+Explore	$42,657	$8,808	$41,900
+=180	Stonehill College
+Massachusetts
+Explore	$37,426	$14,290	$58,600
+=180	Susquehanna University
+Pennsylvania
+Explore	$40,350	$10,800	$50,000
+184	Michigan Technological University
+Michigan
+Explore	$29,520	$9,516	$60,700
+=185	University of San Francisco
+California
+Explore	$41,450	$13,320	$60,600
+=185	Ursinus College
+Pennsylvania
+Explore	$46,080	$11,500	$51,800
+=187	University of Scranton
+Pennsylvania
+Explore	$39,956	$13,566	$55,600
+=187	Wofford College
+South Carolina
+Explore	$37,120	$10,730	$48,200
+=189	Baylor University
+Texas
+Explore	$38,120	$10,708	$48,600
+=189	Clemson University
+South Carolina
+Explore	$31,462	$8,358	$50,100
+=189	Sewanee-The University of the South
+Tennessee
+Explore	$35,202	$10,600	$39,400
+=192	Siena College
+New York
+Explore	$32,293	$13,060	$54,600
+=192	University of Tulsa
+Oklahoma
+Explore	$34,405	$10,476	$43,400
+=194	University of Dayton
+Ohio
+Explore	$37,230	$11,840	$51,400
+=194	Whitman College
+Washington
+Explore	$44,800	$11,228	$43,400
+196	Knox College
+Illinois
+Explore	$40,497	$8,724	$41,600
+=197	Bryant University
+Rhode Island
+Explore	$38,574	$14,102	$63,200
+=197	Lewis & Clark College
+Oregon
+Explore	$43,382	$10,906	$42,200
+=197	Washington & Jefferson College
+Pennsylvania
+Explore	$41,282	$10,666	$48,900
+=200	Catholic University of America
+District of Columbia
+Explore	$39,726	$14,518	$54,200
+=200	Gonzaga University
+Washington
+Explore	$36,535	$9,580	$53,000
+=200	Lake Forest College
+Illinois
+Explore	$41,172	$9,480	$47,600
+=200	Binghamton University, State University of New York
+New York
+Explore	$20,260	$13,028	$57,900
+=200	College of Saint Benedict
+Minnesota
+Explore	$39,402	$9,957	$47,400
+205	Molloy College
+New York
+Explore	$26,850	$13,590	$56,700
+=206	Otis College of Art and Design
+California
+Explore	$40,490	$11,800	$44,400
+=206	Virginia Military Institute
+Virginia
+Explore	$37,574	$8,372	$57,900
+=208	Drew University
+New Jersey
+Explore	$45,214	$12,302	$50,600
+=208	Texas Christian University
+Texas
+Explore	$38,600	$11,380	$49,500
+=208	Washington College
+Maryland
+Explore	$42,592	$10,010	$46,100
+211	Manhattan College
+New York
+Explore	$37,188	$13,740	$62,600
+=212	Chapman University
+California
+Explore	$45,393	$12,954	$50,900
+=212	Ithaca College
+New York
+Explore	$39,532	$14,332	$50,400
+214	Austin College
+Texas
+Explore	$34,840	$11,503	$47,700
+=215	Berea College
+Kentucky
+Explore	$24,270	$6,322	$33,900
+=215	Missouri University of Science and Technology
+Missouri
+Explore	$25,404	$9,396	$64,800
+=217	Providence College
+Rhode Island
+Explore	$44,323	$13,060	$58,600
+=217	Quinnipiac University
+Connecticut
+Explore	$40,670	$14,490	$57,000
+=217	Saint Anselm College
+New Hampshire
+Explore	$36,336	$13,040	$54,000
+=217	Temple University
+Pennsylvania
+Explore	$25,122	$10,738	$46,800
+=221	Dominican University of California
+California
+Explore	$41,730	$13,380	$51,500
+=221	Duquesne University
+Pennsylvania
+Explore	$32,636	$11,084	$54,400
+=221	University of Georgia
+Georgia
+Explore	$29,046	$9,246	$46,900
+224	Augustana College
+Illinois
+Explore	$37,236	$9,435	$48,700
+=225	California Polytechnic State University-San Luis Obispo
+California
+Explore	$20,078	$11,448	$61,300
+=225	Ohio Wesleyan University
+Ohio
+Explore	$41,920	$11,680	$41,800
+=225	Rollins College
+Florida
+Explore	$43,080	$13,470	$42,400
+228	Hampton University
+Virginia
+Explore	$21,760	$9,692	$41,700
+229	Mercer University
+Georgia
+Explore	$33,780	$10,678	$46,700
+=230	Beloit College
+Wisconsin
+Explore	$42,500	$7,470	$37,900
+=230	DePaul University
+Illinois
+Explore	$35,071	$12,552	$50,600
+=230	Xavier University
+Ohio
+Explore	$33,960	$10,560	$48,000
+=233	Miami University
+Ohio
+Explore	$30,391	$11,109	$45,600
+=233	Southwestern University
+Texas
+Explore	$36,120	$10,550	$47,300
+=233	Wheaton College
+Illinois
+Explore	$31,900	$8,820	$42,500
+236	The College of New Jersey
+New Jersey
+Explore	$25,637	$11,677	$56,400
+237	Juniata College
+Pennsylvania
+Explore	$38,630	$10,710	$44,800
+238	Florida State University
+Florida
+Explore	$21,673	$10,208	$44,000
+=239	State University of New York Albany
+New York
+Explore	$19,942	$11,986	$50,500
+=239	Saint Johns University
+Minnesota
+Explore	$38,704	$9,280	$56,000
+=241	Embry-Riddle Aeronautical University
+Florida
+Explore	$31,948	$9,850	$61,200
+=241	Kettering University
+Michigan
+Explore	$36,980	$7,240	$76,100
+=241	Marietta College
+Ohio
+Explore	$33,140	$10,395	$41,000
+=244	Suffolk University
+Massachusetts
+Explore	$32,660	$14,638	$50,500
+=244	University of Tennessee, Knoxville
+Tennessee
+Explore	$29,453	$10,296	$42,300
+=244	Washington State University
+Washington
+Explore	$25,510	$11,276	$46,900
+=247	Samford University
+Alabama
+Explore	$27,324	$9,736	$45,800
+=247	St Mary's College of Maryland
+Maryland
+Explore	$28,674	$11,930	$47,900
+249	Hope College
+Michigan
+Explore	$29,560	$9,090	$43,100
+=250	Saint Mary's College of California
+California
+Explore	$41,380	$14,140	$58,700
+=250	Valparaiso University
+Indiana
+Explore	$34,760	$10,180	$48,500
+252	Westminster College
+Pennsylvania
+Explore	$33,410	$10,160	$43,900
+=253	Cornell College
+Iowa
+Explore	$37,500	$8,500	$41,400
+=253	Earlham College
+Indiana
+Explore	$42,870	$8,600	$32,800
+=253	University of Vermont
+Vermont
+Explore	$37,874	$10,780	$43,900
+=256	Goucher College
+Maryland
+Explore	$40,558	$11,980	$45,700
+=256	Luther College
+Iowa
+Explore	$38,370	$7,350	$42,100
+=256	Mount Saint Mary's University
+California
+Explore	$34,826	$10,793	$50,300
+259	Hanover College
+Indiana
+Explore	$33,023	$10,050	$43,100
+260	George Mason University
+Virginia
+Explore	$29,960	$10,930	$57,100
+=261	John Carroll University
+Ohio
+Explore	$35,800	$10,500	$50,700
+=261	Saint Joseph's University
+Pennsylvania
+Explore	$40,580	$14,426	$58,400
+=261	University of South Carolina
+South Carolina
+Explore	$29,440	$9,248	$42,100
+=264	Cedar Crest College
+Pennsylvania
+Explore	$34,504	$10,409	$45,700
+=264	Westmont College
+California
+Explore	$39,990	$12,580	$47,500
+=266	University of Colorado Denver
+Colorado
+Explore	$22,852	$10,940	$65,600
+=266	Widener University-Main Campus
+Pennsylvania
+Explore	$39,830	$13,388	$52,300
+268	Elizabethtown College
+Pennsylvania
+Explore	$39,920	$9,820	$47,800
+269	Alma College
+Michigan
+Explore	$34,585	$9,490	$43,900
+270	University of Detroit Mercy
+Michigan
+Explore	$37,320	$8,528	$43,900
+=271	Clark University
+Massachusetts
+Explore	$40,730	$7,800	$43,400
+=271	Sarah Lawrence College
+New York
+Explore	$50,780	$14,212	$38,300
+273	Pace University-New York
+New York
+Explore	$39,697	$15,774	$58,000
+274	Hampden-Sydney College
+Virginia
+Explore	$39,204	$12,312	$49,900
+275	College for Creative Studies
+Michigan
+Explore	$37,092	$8,250	$39,600
+=276	Embry-Riddle Aeronautical University-Prescott
+Arizona
+Explore	$31,648	$9,716	$61,200
+=276	Hofstra University
+New York
+Explore	$38,900	$12,910	$53,100
+=276	University of Utah
+Utah
+Explore	$25,057	$8,528	$49,400
+=279	Coe College
+Iowa
+Explore	$37,320	$8,230	$43,100
+=279	Moravian College
+Pennsylvania
+Explore	$37,572	$11,082	$49,300
+281	University of Alabama at Birmingham
+Alabama
+Explore	$17,062	$10,809	$40,000
+=282	University of Kansas
+Kansas
+Explore	$23,847	$9,138	$44,700
+=282	University of Portland
+Oregon
+Explore	$40,424	$13,158	$52,700
+=282	Rutgers University-Camden
+New Jersey
+Explore	$27,978	$11,438	$54,600
+=285	Adelphi University
+New York
+Explore	$32,340	$13,620	$50,900
+=285	Wayne State University
+Michigan
+Explore	$26,592	$9,430	$40,400
+287	Seton Hall University
+New Jersey
+Explore	$36,926	$12,254	$53,500
+=288	Concordia College at Moorhead
+Minnesota
+Explore	$34,114	$7,370	$41,200
+=288	Hendrix College
+Arkansas
+Explore	$39,140	$10,912	$40,500
+=288	Pratt Institute-Main
+New York
+Explore	$44,804	$11,152	$39,500
+=288	St Mary's University
+Texas
+Explore	$26,186	$8,894	$45,900
+292	Saint Francis University
+Pennsylvania
+Explore	$31,078	$10,760	$46,600
+=293	Auburn University
+Alabama
+Explore	$27,384	$12,178	$45,500
+=293	University of Cincinnati
+Ohio
+Explore	$26,334	$10,496	$39,100
+=293	Houghton College
+New York
+Explore	$28,556	$8,252	$40,500
+=296	Eckerd College
+Florida
+Explore	$38,668	$10,550	$40,700
+=296	La Salle University
+Pennsylvania
+Explore	$39,800	$12,560	$52,000
+298	Iowa State University
+Iowa
+Explore	$20,617	$7,830	$47,500
+299	Nazareth College
+New York
+Explore	$30,562	$12,466	$44,000
+=300	Calvin College
+Michigan
+Explore	$29,635	$9,485	$41,300
+=300	University of Oklahoma
+Oklahoma
+Explore	$20,469	$9,126	$46,600
+=300	University of St Thomas
+Minnesota
+Explore	$36,682	$9,200	$55,200
+=303	Bard College
+New York
+Explore	$48,240	$13,772	$37,200
+=303	University of Saint Joseph
+Connecticut
+Explore	$34,755	$14,426	$49,600
+=303	Saint Michael's College
+Vermont
+Explore	$39,375	$10,600	$46,400
+306	Whittier College
+California
+Explore	$41,636	$12,046	$44,500
+=307	California Institute of the Arts
+California
+Explore	$42,276	$11,010	$32,100
+=307	University of Mississippi
+Mississippi
+Explore	$19,144	$9,908	$40,500
+=307	Pacific Lutheran University
+Washington
+Explore	$36,530	$10,230	$46,100
+=307	Transylvania University
+Kentucky
+Explore	$33,360	$9,300	$40,400
+=311	Augustana College
+South Dakota
+Explore	$29,214	$7,285	$42,200
+=311	Oregon State University
+Oregon
+Explore	$26,294	$10,929	$46,200
+=311	Rider University
+New Jersey
+Explore	$36,830	$13,330	$48,700
+=314	University of Oregon
+Oregon
+Explore	$30,888	$11,097	$41,600
+=314	Rowan University
+New Jersey
+Explore	$20,570	$11,406	$48,900
+316	Azusa Pacific University
+California
+Explore	$33,096	$8,990	$49,500
+=317	Andrews University
+Michigan
+Explore	$26,262	$8,302	$35,400
+=317	Merrimack College
+Massachusetts
+Explore	$36,215	$12,520	$55,600
+=317	University of Missouri
+Missouri
+Explore	$24,460	$9,386	$46,000
+=317	Tuskegee University
+Alabama
+Explore	$19,570	$9,104	$36,900
+=317	Xavier University of Louisiana
+Louisiana
+Explore	$21,552	$8,500	$46,600
+=322	Bellarmine University
+Kentucky
+Explore	$36,290	$11,076	$45,700
+=322	CUNY Bernard M Baruch College
+New York
+Explore	$13,371	$15,568	$54,400
+324	University of Missouri-Kansas City
+Missouri
+Explore	$22,535	$9,815	$43,400
+=325	Point Loma Nazarene University
+California
+Explore	$31,406	$9,600	$49,300
+=325	University of Redlands
+California
+Explore	$43,186	$12,710	$52,600
+327	Saint Vincent College
+Pennsylvania
+Explore	$31,370	$9,962	$44,700
+=328	Hampshire College
+Massachusetts
+Explore	$48,065	$12,450	$32,300
+=328	Le Moyne College
+New York
+Explore	$31,340	$12,130	$48,600
+=328	University of New England
+Maine
+Explore	$34,080	$12,670	$44,600
+=328	Stetson University
+Florida
+Explore	$40,040	$11,476	$42,100
+=328	Wartburg College
+Iowa
+Explore	$36,120	$8,920	$43,100
+=333	Assumption College
+Massachusetts
+Explore	$36,160	$10,962	$53,200
+=333	Lebanon Valley College
+Pennsylvania
+Explore	$37,470	$10,100	$46,000
+=335	Brigham Young University
+Hawaii
+Explore	$4,940	$5,746	$40,400
+=335	Morehouse College
+Georgia
+Explore	$26,090	$13,322	$41,200
+=335	Pacific University
+Oregon
+Explore	$38,510	$11,116	$41,700
+=335	Southern Illinois University-Carbondale
+Illinois
+Explore	$24,215	$9,694	$41,300
+=335	St Catherine University
+Minnesota
+Explore	$28,615	$8,894	$45,100
+=340	Elmhurst College
+Illinois
+Explore	$33,950	$9,386	$48,200
+=340	Western New England University
+Massachusetts
+Explore	$33,466	$12,688	$55,800
+=342	University of California, Santa Cruz
+California
+Explore	$36,275	$14,730	$43,800
+=342	Hartwick College
+New York
+Explore	$40,070	$10,800	$43,900
+=344	CUNY City College
+New York
+Explore	$13,199	$14,458	$45,100
+=344	University of Hawai’i at Mānoa
+Hawaii
+Explore	$29,412	$13,284	$43,600
+=344	Queens University of Charlotte
+North Carolina
+Explore	$30,569	$13,976	$38,200
+=347	Baldwin Wallace University
+Ohio
+Explore	$28,814	$8,048	$44,400
+=347	Saint Edward's University
+Texas
+Explore	$36,550	$10,204	$44,400
+349	Illinois College
+Illinois
+Explore	$29,210	$9,190	$37,500
+350	Georgetown College
+Kentucky
+Explore	$32,960	$8,480	$41,700
+351	St John's University-New York
+New York
+Explore	$38,892	$16,090	$53,400
+=352	Canisius College
+New York
+Explore	$34,000	$12,516	$45,700
+=352	Millikin University
+Illinois
+Explore	$29,620	$9,320	$42,400
+=352	Philadelphia University
+Pennsylvania
+Explore	$34,880	$10,970	$48,500
+=355	University of Hartford
+Connecticut
+Explore	$35,444	$11,518	$46,000
+=355	Lawrence Technological University
+Michigan
+Explore	$30,200	$8,986	$53,700
+=355	William Jewell College
+Missouri
+Explore	$31,111	$8,410	$41,300
+=355	Wittenberg University
+Ohio
+Explore	$38,030	$9,932	$42,000
+=359	Clarke University
+Iowa
+Explore	$28,900	$8,700	$40,900
+=359	Hiram College
+Ohio
+Explore	$30,025	$10,010	$38,000
+=359	University of Louisville
+Kentucky
+Explore	$24,320	$7,710	$38,100
+=359	University of Nevada-Reno
+Nevada
+Explore	$20,617	$10,196	$45,200
+=359	Saint John Fisher College
+New York
+Explore	$29,550	$11,158	$45,000
+364	University of California, Riverside
+California
+Explore	$36,285	$13,381	$47,900
+=365	Fairleigh Dickinson University-Metropolitan Campus
+New Jersey
+Explore	$36,668	$12,705	$47,200
+=365	Norwich University
+Vermont
+Explore	$34,704	$11,984	$46,000
+=367	School of the Art Institute of Chicago
+Illinois
+Explore	$42,230	$12,500	$31,800
+=367	Milwaukee School of Engineering
+Wisconsin
+Explore	$35,520	$8,808	$65,700
+369	University of Kentucky
+Kentucky
+Explore	$22,888	$10,506	$41,700
+=370	University of Mount Union
+Ohio
+Explore	$27,990	$9,200	$41,300
+=370	Randolph-Macon College
+Virginia
+Explore	$36,340	$10,500	$45,200
+372	James Madison University
+Virginia
+Explore	$24,522	$9,196	$53,000
+=373	Kansas State University
+Kansas
+Explore	$22,624	$8,060	$43,300
+=373	Marist College
+New York
+Explore	$32,500	$13,600	$53,800
+=373	Ohio University
+Ohio
+Explore	$19,566	$10,478	$39,500
+=373	University of Texas at Dallas
+Texas
+Explore	$26,894	$9,542	$49,600
+=377	New Jersey Institute of Technology
+New Jersey
+Explore	$29,288	$13,280	$64,900
+=377	University of Washington-Bothell Campus
+Washington
+Explore	$33,030	$10,833	$52,900
+=379	CUNY Hunter College
+New York
+Explore	$13,239	$7,828	$44,900
+=379	King's College
+Pennsylvania
+Explore	$31,816	$11,686	$48,300
+=379	Misericordia University
+Pennsylvania
+Explore	$29,010	$12,050	$47,800
+=379	The College of Saint Scholastica
+Minnesota
+Explore	$32,842	$8,598	$48,700
+=383	University of Alabama
+Alabama
+Explore	$24,950	$12,716	$42,100
+=383	Citadel Military College of South Carolina
+South Carolina
+Explore	$30,706	$6,381	$52,200
+=383	University of Maryland, Baltimore County
+Maryland
+Explore	$22,682	$10,920	$53,600
+=386	Colorado State University
+Colorado
+Explore	$26,077	$10,488	$44,400
+=386	Gannon University
+Pennsylvania
+Explore	$29,203	$11,240	$46,000
+=386	Loyola University New Orleans
+Louisiana
+Explore	$36,630	$12,660	$42,300
+=386	MCPHS University
+Massachusetts
+Explore	$29,500	$14,740	$114,900
+=386	Taylor University
+Indiana
+Explore	$29,538	$8,283	$37,500
+391	Marian University
+Indiana
+Explore	$29,400	$9,140	$41,300
+=392	Augsburg College
+Minnesota
+Explore	$34,431	$9,106	$45,200
+=392	Roanoke College
+Virginia
+Explore	$38,052	$11,924	$43,200
+=394	Messiah College
+Pennsylvania
+Explore	$31,340	$9,350	$41,600
+=394	Monmouth College
+Illinois
+Explore	$33,200	$7,650	$40,100
+=394	Otterbein University
+Ohio
+Explore	$31,624	$9,460	$41,200
+=394	University of Wyoming
+Wyoming
+Explore	$12,152	$9,755	$46,100
+=398	Carroll College
+Montana
+Explore	$29,280	$8,950	$44,700
+=398	Nebraska Wesleyan University
+Nebraska
+Explore	$28,500	$7,950	$45,000
+=398	West Virginia University
+West Virginia
+Explore	$20,242	$9,582	$43,600
+=401	University of Evansville
+Indiana
+Explore	$31,096	$10,880	$40,300
+=401	Hamline University
+Minnesota
+Explore	$36,270	$9,392	$47,100
+=401	University of Indianapolis
+Indiana
+Explore	$25,414	$9,010	$41,500
+404	Saint Joseph's College-New York
+New York
+Explore	$22,830	n/a	$51,900
+=405	Cedarville University
+Ohio
+Explore	$26,420	$6,150	$40,800
+=405	Wagner College
+New York
+Explore	$40,750	$12,450	$54,800
+=407	University of Michigan-Dearborn
+Michigan
+Explore	$23,150	n/a	$46,500
+=407	St. Norbert College
+Wisconsin
+Explore	$33,023	$8,455	$44,500
+=407	Seattle Pacific University
+Washington
+Explore	$35,472	$10,086	$44,400
+=410	Campbell University
+North Carolina
+Explore	$27,530	$9,860	$42,700
+=410	Capital University
+Ohio
+Explore	$32,190	$9,060	$41,200
+=410	College of Mount Saint Vincent
+New York
+Explore	$31,290	$12,560	$51,200
+=410	Roger Williams University
+Rhode Island
+Explore	$31,750	$14,546	$47,300
+=410	St Bonaventure University
+New York
+Explore	$30,475	$11,086	$44,600
+=410	Union University
+Tennessee
+Explore	$28,200	$10,240	$38,400
+=410	University of Washington-Tacoma Campus
+Washington
+Explore	$33,381	$10,833	$52,900
+=417	CUNY Brooklyn College
+New York
+Explore	$13,346	$12,158	$44,500
+=417	University of Dallas
+Texas
+Explore	$34,430	$11,070	$45,000
+=417	University of New Hampshire-Main Campus
+New Hampshire
+Explore	$29,532	$10,360	$47,400
+=417	Roosevelt University
+Illinois
+Explore	$26,900	$12,532	$44,600
+=421	The New School
+New York
+Explore	$41,219	$16,835	$40,000
+=421	Walla Walla University
+Washington
+Explore	$25,866	$6,465	$45,600
+=423	Central College
+Iowa
+Explore	$32,124	$9,980	$41,500
+=423	San Diego State University
+California
+Explore	$18,026	$14,745	$48,000
+=425	CUNY Queens College
+New York
+Explore	$13,317	$13,350	$47,700
+=425	LIU Post
+New York
+Explore	$34,852	$12,808	$45,300
+=425	Louisiana State University
+Louisiana
+Explore	$26,467	$10,804	$45,800
+=425	Whitworth University
+Washington
+Explore	$37,630	$10,278	$41,100
+=429	Massachusetts Maritime Academy
+Massachusetts
+Explore	$22,304	$11,120	$74,200
+=429	Notre Dame of Maryland University
+Maryland
+Explore	$33,010	$10,716	$48,100
+=429	Stevenson University
+Maryland
+Explore	$28,980	$12,490	$50,800
+=432	Albright College
+Pennsylvania
+Explore	$38,220	$10,400	$47,100
+=432	Birmingham Southern College
+Alabama
+Explore	$31,888	$12,530	$43,000
+=432	California College of the Arts
+California
+Explore	$41,942	$11,250	$34,500
+=432	Illinois State University
+Illinois
+Explore	$20,231	$9,814	$45,300
+=432	Salve Regina University
+Rhode Island
+Explore	$35,690	$12,860	$49,000
+=437	University of Houston
+Texas
+Explore	$19,693	$9,278	$48,600
+=437	Maryville University of Saint Louis
+Missouri
+Explore	$25,884	$10,773	$45,100
+=437	University of South Florida
+Florida
+Explore	$17,324	$9,400	$41,300
+440	Montclair State University
+New Jersey
+Explore	$20,254	$14,010	$48,500
+=441	Simpson College
+Iowa
+Explore	$32,550	$7,963	$44,600
+=441	State University of New York at New Paltz
+New York
+Explore	$17,068	$10,896	$44,800
+443	New York Institute of Technology
+New York
+Explore	$32,180	$14,130	$49,800
+=444	University of Arkansas
+Arkansas
+Explore	$20,300	$9,454	$43,500
+=444	California Lutheran University
+California
+Explore	$37,140	$12,400	$51,900
+=444	Eastern Illinois University
+Illinois
+Explore	$28,009	$9,358	$40,500
+=444	Lycoming College
+Pennsylvania
+Explore	$34,706	$10,376	$43,100
+=444	Oklahoma State University
+Oklahoma
+Explore	$20,027	$8,710	$43,600
+=444	University of Toledo
+Ohio
+Explore	$18,801	$10,304	$40,100
+=450	Chatham University
+Pennsylvania
+Explore	$33,429	$10,368	$33,800
+=450	South Dakota School of Mines and Technology
+South Dakota
+Explore	$13,560	$6,370	$51,400
+=452	Indiana University-Purdue University-Indianapolis
+Indiana
+Explore	$30,089	$8,702	$39,600
+=452	McDaniel College
+Maryland
+Explore	$38,350	$9,100	$45,500
+=452	Mercyhurst University
+Pennsylvania
+Explore	$31,485	$12,043	$39,000
+=452	Oglethorpe University
+Georgia
+Explore	$32,500	$11,700	$43,900
+=456	Doane College-Crete
+Nebraska
+Explore	$27,180	$8,030	$42,600
+=456	University of Nebraska-Lincoln
+Nebraska
+Explore	$21,990	$9,962	$43,600
+=458	Christian Brothers University
+Tennessee
+Explore	$29,190	$6,920	$45,600
+=458	Gordon College
+Massachusetts
+Explore	$34,390	$9,930	$40,600
+=458	Virginia Commonwealth University
+Virginia
+Explore	$30,459	$10,742	$41,600
+=461	Franklin College
+Indiana
+Explore	$28,185	$8,775	$40,900
+=461	Meredith College
+North Carolina
+Explore	$32,140	$9,516	$37,500
+=461	Nova Southeastern University
+Florida
+Explore	$26,700	$10,580	$45,800
+=464	Marymount University
+Virginia
+Explore	$27,470	$12,010	$49,700
+=464	Salem College
+North Carolina
+Explore	$25,356	$11,764	$32,500
+466	John Brown University
+Arkansas
+Explore	$23,588	$8,468	$46,400
+=467	Alfred University
+New York
+Explore	$26,106	$11,790	$41,600
+=467	Maryland Institute College of Art
+Maryland
+Explore	$42,390	$11,710	$31,900
+=467	Wilkes University
+Pennsylvania
+Explore	$31,262	$12,808	$49,900
+=470	Berry College
+Georgia
+Explore	$30,530	$10,660	$37,900
+=470	Sacred Heart University
+Connecticut
+Explore	$35,750	$13,514	$54,000
+=470	Spring Hill College
+Alabama
+Explore	$32,468	$11,696	$43,300
+=473	University of Memphis
+Tennessee
+Explore	$20,331	$8,976	$36,300
+=473	Saint Ambrose University
+Iowa
+Explore	$27,540	$9,280	$44,800
+=475	Eastern Mennonite University
+Virginia
+Explore	$30,800	$9,860	$38,500
+=475	Stockton University
+New Jersey
+Explore	$19,089	$11,164	$46,700
+=477	Johnson C Smith University
+North Carolina
+Explore	$18,236	$7,100	$31,000
+=477	University of Massachusetts-Boston
+Massachusetts
+Explore	$28,390	n/a	$45,900
+=479	Belmont University
+Tennessee
+Explore	$28,660	$10,530	$40,400
+=479	SUNY College of Environmental Science and Forestry
+New York
+Explore	$17,048	$15,120	$43,300
+=481	California State University, Chico
+California
+Explore	$18,162	$11,208	$44,700
+=481	University of Minnesota-Morris
+Minnesota
+Explore	$12,583	$7,626	$38,800
+=483	Adrian College
+Michigan
+Explore	$32,660	$9,740	$36,800
+=483	Dordt College
+Iowa
+Explore	$27,460	$8,000	$38,200
+=483	Western Illinois University
+Illinois
+Explore	$15,558	$9,450	$41,100
+=486	Emerson College
+Massachusetts
+Explore	$37,350	$15,096	$44,800
+=486	LIU Brooklyn
+New York
+Explore	$34,852	$12,330	$45,300
+=486	Mount Mercy University
+Iowa
+Explore	$27,010	$8,310	$43,200
+=486	Saint Xavier University
+Illinois
+Explore	$30,100	$10,320	$44,200
+=490	Lincoln Memorial University
+Tennessee
+Explore	$19,970	$9,700	$37,100
+=490	Trinity Christian College
+Illinois
+Explore	$25,515	$9,390	$41,500
+=490	Westminster College
+Utah
+Explore	$30,364	$8,456	$45,900
+=493	Bethel University
+Minnesota
+Explore	$32,990	$9,440	$44,500
+=493	Marywood University
+Pennsylvania
+Explore	$31,695	$13,900	$37,200
+=493	University of New Mexico
+New Mexico
+Explore	$20,664	$8,580	$35,400
+=496	University of Central Florida
+Florida
+Explore	$22,467	$9,300	$42,900
+=496	Wentworth Institute of Technology
+Massachusetts
+Explore	$30,765	$12,840	$55,600
+=498	University of Alaska Fairbanks
+Alaska
+Explore	$19,290	$8,102	$37,200
+=498	College of Our Lady of the Elms
+Massachusetts
+Explore	$31,188	$11,312	$44,000
+=500	East Carolina University
+North Carolina
+Explore	$21,340	$8,833	$39,100
+=500	University of Idaho
+Idaho
+Explore	$20,314	$8,022	$39,800
+=500	Niagara University
+New York
+Explore	$29,060	$11,950	$42,400
+=500	Shenandoah University
+Virginia
+Explore	$30,188	$9,728	$40,000
+501-600	Abilene Christian University
+Texas
+Explore	$29,450	$9,000	$40,200
+501-600	Alverno College
+Wisconsin
+Explore	$24,434	$7,500	$37,200
+501-600	Arcadia University
+Pennsylvania
+Explore	$38,160	$12,740	$43,300
+501-600	The University of the Arts
+Pennsylvania
+Explore	$38,410	$14,004	$30,400
+501-600	Avila University
+Missouri
+Explore	$25,700	$6,908	$41,300
+501-600	Barry University
+Florida
+Explore	$28,160	$10,400	$44,700
+501-600	Bay Path University
+Massachusetts
+Explore	$30,859	$12,240	$41,500
+501-600	Benedictine University
+Illinois
+Explore	$26,558	$8,526	$51,000
+501-600	Berklee College of Music
+Massachusetts
+Explore	$38,910	$17,372	$30,200
+501-600	Bethel College-Indiana
+Indiana
+Explore	$25,830	$7,780	$35,700
+501-600	Caldwell University
+New Jersey
+Explore	$30,050	$11,700	$45,300
+501-600	California State Polytechnic University-Pomona
+California
+Explore	$18,064	$13,284	$51,300
+501-600	California State University, Long Beach
+California
+Explore	$17,612	$11,688	$46,700
+501-600	Carson-Newman University
+Tennessee
+Explore	$24,460	$7,590	$35,800
+501-600	College of Charleston
+South Carolina
+Explore	$27,971	$11,327	$40,100
+501-600	University of Charleston
+West Virginia
+Explore	$18,800	$9,100	$42,000
+501-600	Chestnut Hill College
+Pennsylvania
+Explore	$32,110	$10,000	$41,100
+501-600	Cleveland State University
+Ohio
+Explore	$12,928	$11,858	$38,900
+501-600	DeSales University
+Pennsylvania
+Explore	$32,350	$11,620	$48,000
+501-600	Delaware State University
+Delaware
+Explore	$15,692	$10,607	$33,900
+501-600	Eastern University
+Pennsylvania
+Explore	$29,600	$9,940	$42,000
+501-600	Edgewood College
+Wisconsin
+Explore	$25,590	$8,973	$41,400
+501-600	Elmira College
+New York
+Explore	$38,150	$11,800	$43,000
+501-600	Ferris State University
+Michigan
+Explore	$16,414	$9,208	$40,900
+501-600	Florida Agricultural and Mechanical University
+Florida
+Explore	$17,725	$9,356	$36,300
+501-600	Florida International University
+Florida
+Explore	$18,895	$10,702	$44,400
+501-600	Florida Southern College
+Florida
+Explore	$29,990	$9,722	$38,000
+501-600	George Fox University
+Oregon
+Explore	$31,866	$9,864	$42,500
+501-600	Georgia State University
+Georgia
+Explore	$23,186	$13,342	$41,100
+501-600	Guilford College
+North Carolina
+Explore	$33,430	$9,370	$38,000
+501-600	Gwynedd Mercy University
+Pennsylvania
+Explore	$30,460	$10,740	$51,800
+501-600	Hardin-Simmons University
+Texas
+Explore	$22,350	$6,962	$38,600
+501-600	Hastings College
+Nebraska
+Explore	$26,280	$7,500	$40,600
+501-600	University of Hawai'i at Hilo
+Hawaii
+Explore	$19,036	$9,328	$34,000
+501-600	High Point University
+North Carolina
+Explore	$31,480	$11,480	$37,300
+501-600	Holy Family University
+Pennsylvania
+Explore	$28,456	$13,576	$49,200
+501-600	Hood College
+Maryland
+Explore	$34,120	$11,610	$42,700
+501-600	The College of Idaho
+Idaho
+Explore	$24,625	$8,224	$38,400
+501-600	Immaculata University
+Pennsylvania
+Explore	$30,148	$12,880	$48,300
+501-600	Iona College
+New York
+Explore	$34,030	$13,570	$52,200
+501-600	Lasell College
+Massachusetts
+Explore	$31,000	$12,750	$40,800
+501-600	Lewis University
+Illinois
+Explore	$27,830	$9,750	$46,800
+501-600	Lipscomb University
+Tennessee
+Explore	$27,390	$10,350	$38,000
+501-600	Loras College
+Iowa
+Explore	$29,700	$8,353	$41,600
+501-600	Lynchburg College
+Virginia
+Explore	$34,545	$9,330	$41,100
+501-600	University of Maine
+Maine
+Explore	$28,486	$9,296	$38,900
+501-600	Manhattanville College
+New York
+Explore	$36,220	$14,520	$46,900
+501-600	Martin Luther College
+Minnesota
+Explore	$12,920	$5,100	$39,800
+501-600	University of Maryland Eastern Shore
+Maryland
+Explore	$16,311	$8,994	$37,200
+501-600	Massachusetts College of Art and Design
+Massachusetts
+Explore	$29,925	$13,000	$34,000
+501-600	McKendree University
+Illinois
+Explore	$26,900	$8,920	$43,100
+501-600	Methodist University
+North Carolina
+Explore	$29,080	$10,804	$39,200
+501-600	Mississippi State University
+Mississippi
+Explore	$18,478	$8,954	$39,800
+501-600	Monmouth University
+New Jersey
+Explore	$32,310	$11,798	$50,000
+501-600	Mount St Mary's University
+Maryland
+Explore	$36,021	$11,975	$50,100
+501-600	Muskingum University
+Ohio
+Explore	$24,676	$9,760	$38,700
+501-600	University of New Haven
+Connecticut
+Explore	$34,630	$14,410	$48,600
+501-600	North Carolina A & T State University
+North Carolina
+Explore	$18,402	$6,755	$33,300
+501-600	University of North Carolina at Asheville
+North Carolina
+Explore	$21,263	$8,332	$35,200
+501-600	University of North Carolina at Charlotte
+North Carolina
+Explore	$19,448	$9,820	$41,600
+501-600	University of North Carolina Wilmington
+Oklahoma
+Explore	$20,420	$9,207	$39,000
+501-600	University of North Dakota
+North Dakota
+Explore	$18,409	$6,746	$46,500
+501-600	University of North Texas
+Texas
+Explore	$18,034	$7,760	$42,200
+501-600	Northern Illinois University
+Illinois
+Explore	$22,733	$10,756	$43,800
+501-600	University of Northern Iowa
+Iowa
+Explore	$17,647	$8,046	$41,800
+501-600	Northwestern College
+Iowa
+Explore	$27,860	$8,410	$36,900
+501-600	Notre Dame de Namur University
+California
+Explore	$31,822	$12,494	$51,100
+501-600	Ouachita Baptist University
+Arkansas
+Explore	$23,320	$6,900	$37,400
+501-600	University of Pittsburgh-Bradford
+Pennsylvania
+Explore	$24,138	$8,480	$48,500
+501-600	Ramapo College of New Jersey
+New Jersey
+Explore	$22,037	$11,550	$47,300
+501-600	University of Rhode Island
+Rhode Island
+Explore	$28,072	$11,752	$47,900
+501-600	Robert Morris University
+Pennsylvania
+Explore	$26,054	$11,810	$44,300
+501-600	Roberts Wesleyan College
+New York
+Explore	$28,068	$9,840	$42,000
+501-600	SUNY College at Cortland
+New York
+Explore	$17,369	$12,040	$45,100
+501-600	SUNY College at Geneseo
+New York
+Explore	$17,424	$11,518	$46,400
+501-600	Saint Martin's University
+Washington
+Explore	$31,688	$9,990	$47,400
+501-600	Saint Peter's University
+New Jersey
+Explore	$33,232	$13,996	$44,400
+501-600	The College of Saint Rose
+New York
+Explore	$29,016	$11,532	$42,700
+501-600	San Jose State University
+California
+Explore	$18,483	$13,350	$54,100
+501-600	Savannah College of Art and Design
+Georgia
+Explore	$34,295	$13,710	$35,200
+501-600	University of South Dakota
+South Dakota
+Explore	$10,794	$7,032	$39,400
+501-600	South Dakota State University
+South Dakota
+Explore	$10,485	$9,000	$40,600
+501-600	Southern Illinois University-Edwardsville
+Illinois
+Explore	$11,244	$8,781	$39,800
+501-600	Southern Nazarene University
+Oklahoma
+Explore	$22,690	$7,600	$45,800
+501-600	St Francis College
+New York
+Explore	$22,300	$19,500	$48,100
+501-600	The University of Tampa
+Florida
+Explore	$26,330	$9,624	$44,100
+501-600	Texas Lutheran University
+Texas
+Explore	$26,800	$9,240	$43,700
+501-600	Texas Tech University
+Texas
+Explore	$16,499	$8,928	$46,800
+501-600	Towson University
+Maryland
+Explore	$20,268	$10,936	$49,300
+501-600	Trine University
+Indiana
+Explore	$29,600	$9,800	$41,500
+501-600	Trinity Washington University
+District of Columbia
+Explore	$22,316	$9,840	$46,400
+501-600	Truman State University
+Missouri
+Explore	$13,438	$8,167	$42,800
+501-600	Waynesburg University
+Pennsylvania
+Explore	$21,290	$8,860	$44,900
+501-600	Western Michigan University
+Michigan
+Explore	$24,917	$8,943	$42,700
+501-600	Western Washington University
+Washington
+Explore	$20,407	$10,041	$43,400
+501-600	Winston-Salem State University
+North Carolina
+Explore	$15,113	$8,621	$32,800
+501-600	Wisconsin Lutheran College
+Wisconsin
+Explore	$25,960	$8,900	$37,700
+601-800	University of Akron Main Campus
+Ohio
+Explore	$18,792	$11,064	$34,500
+601-800	University of Alaska Anchorage
+Alaska
+Explore	$19,010	$11,152	$42,200
+601-800	Alcorn State University
+Mississippi
+Explore	$6,200	$8,650	$30,500
+601-800	Alvernia University
+Pennsylvania
+Explore	$30,080	$10,450	$42,200
+601-800	Anderson University
+Indiana
+Explore	$26,850	$9,250	$35,700
+601-800	Appalachian State University
+North Carolina
+Explore	$19,720	$7,753	$36,500
+601-800	Asbury University
+Kentucky
+Explore	$26,868	$6,132	$33,800
+601-800	Ashland University
+Ohio
+Explore	$19,852	$9,502	$39,100
+601-800	Ball State University
+Indiana
+Explore	$24,610	$9,126	$38,900
+601-800	Belhaven University
+Mississippi
+Explore	$20,780	$7,700	$37,300
+601-800	Benedictine College
+Kansas
+Explore	$25,100	$8,750	$38,700
+601-800	Biola University
+California
+Explore	$33,322	$9,910	$40,600
+601-800	Bloomsburg University of Pennsylvania
+Pennsylvania
+Explore	$19,364	$8,168	$43,800
+601-800	Bluffton University
+Ohio
+Explore	$29,316	$9,632	$37,900
+601-800	Bowie State University
+Maryland
+Explore	$17,875	$9,692	$46,900
+601-800	Bowling Green State University
+Ohio
+Explore	$18,034	$8,244	$38,900
+601-800	Bridgewater College
+Virginia
+Explore	$30,380	$11,070	$41,700
+601-800	CUNY Lehman College
+New York
+Explore	$13,218	$12,324	$40,900
+601-800	Cabrini College
+Pennsylvania
+Explore	$29,842	$12,738	$41,800
+601-800	California Baptist University
+California
+Explore	$29,422	$7,890	$41,000
+601-800	California State University-Bakersfield
+California
+Explore	$17,952	$10,926	$47,300
+601-800	California State University-East Bay
+California
+Explore	$17,724	$12,246	$51,200
+601-800	California State University-Fresno
+California
+Explore	$17,459	$10,604	$43,100
+601-800	California State University-Fullerton
+California
+Explore	$17,475	$13,510	$45,700
+601-800	California State University-Monterey Bay
+California
+Explore	$17,123	$10,112	$40,900
+601-800	California State University-Northridge
+California
+Explore	$17,709	$10,981	$43,600
+601-800	California State University-Sacramento
+California
+Explore	$17,808	$12,700	$46,300
+601-800	California State University-San Bernardino
+California
+Explore	$17,710	$9,933	$45,000
+601-800	California State University-San Marcos
+California
+Explore	$18,329	$12,855	$45,400
+601-800	California State University-Stanislaus
+California
+Explore	$17,846	$9,200	$44,100
+601-800	Cardinal Stritch University
+Wisconsin
+Explore	$26,570	$7,470	$49,700
+601-800	Carlow University
+Pennsylvania
+Explore	$26,178	$10,314	$39,600
+601-800	Carroll University
+Wisconsin
+Explore	$28,550	$9,104	$42,400
+601-800	Carthage College
+Wisconsin
+Explore	$36,570	$9,970	$42,800
+601-800	Catawba College
+South Carolina
+Explore	$27,360	$9,880	$36,800
+601-800	Central Connecticut State University
+Connecticut
+Explore	$20,612	$10,872	$44,000
+601-800	Central Methodist University-College of Liberal Arts and Sciences
+Missouri
+Explore	$21,830	$7,130	$33,500
+601-800	Central Michigan University
+Michigan
+Explore	$22,881	$8,780	$39,900
+601-800	University of Central Oklahoma
+Oklahoma
+Explore	$14,286	$7,130	$38,300
+601-800	Central Washington University
+Washington
+Explore	$21,380	$10,285	$44,700
+601-800	Chaminade University of Honolulu
+Hawaii
+Explore	$20,940	$11,640	$37,800
+601-800	Christopher Newport University
+Virginia
+Explore	$21,974	$10,314	$42,400
+601-800	Claflin University
+South Carolina
+Explore	$15,010	$10,540	$27,500
+601-800	Clark Atlanta University
+Georgia
+Explore	$21,334	$10,262	$33,700
+601-800	Coastal Carolina University
+South Carolina
+Explore	$23,660	$8,194	$36,200
+601-800	Coker College
+South Carolina
+Explore	$25,536	$7,830	$31,900
+601-800	Colby-Sawyer College
+New Hampshire
+Explore	$38,040	$12,750	$38,700
+601-800	Columbia College-Chicago
+Illinois
+Explore	$23,544	$12,450	$32,800
+601-800	Columbus College of Art and Design
+Ohio
+Explore	$30,390	$7,980	$32,200
+601-800	Concordia College-New York
+New York
+Explore	$28,805	$10,530	$44,200
+601-800	Concordia University-Irvine
+California
+Explore	$30,640	$9,270	$42,300
+601-800	Coppin State University
+Maryland
+Explore	$11,885	$9,336	$36,600
+601-800	Covenant College
+Georgia
+Explore	$30,160	$8,830	$39,700
+601-800	Curry College
+Massachusetts
+Explore	$35,415	$13,510	$44,600
+601-800	Daemen College
+New York
+Explore	$24,990	$11,800	$40,600
+601-800	Dallas Baptist University
+Texas
+Explore	$23,650	$6,930	$42,300
+601-800	Delta State University
+Mississippi
+Explore	$6,562	$7,200	$33,900
+601-800	University of the District of Columbia
+District of Columbia
+Explore	$11,233	n/a	$35,500
+601-800	Dominican College of Blauvelt
+New York
+Explore	$25,702	$11,880	$50,200
+601-800	University of Dubuque
+Iowa
+Explore	$26,950	$8,760	$37,300
+601-800	Eastern Connecticut State University
+Connecticut
+Explore	$21,295	$11,650	$42,900
+601-800	Eastern Nazarene College
+Massachusetts
+Explore	$29,012	$8,800	$44,600
+601-800	Eastern Washington University
+Washington
+Explore	$21,066	$9,628	$40,700
+601-800	Emmanuel College
+Massachusetts
+Explore	$35,532	$13,580	$43,900
+601-800	Endicott College
+Massachusetts
+Explore	$29,494	$13,734	$44,800
+601-800	SUNY Farmingdale State College
+New York
+Explore	$17,133	$12,190	$46,600
+601-800	The University of Findlay
+Ohio
+Explore	$30,640	$9,350	$40,700
+601-800	Florida Atlantic University
+Florida
+Explore	$17,276	$11,924	$41,000
+601-800	Franciscan University of Steubenville
+Ohio
+Explore	$23,930	$8,000	$35,200
+601-800	Franklin Pierce University
+New Hampshire
+Explore	$31,782	$12,060	$37,500
+601-800	Geneva College
+Pennsylvania
+Explore	$25,220	$9,460	$38,200
+601-800	Georgian Court University
+New Jersey
+Explore	$30,998	$10,596	$44,700
+601-800	Graceland University-Lamoni
+Indiana
+Explore	$24,920	$8,060	$36,400
+601-800	Grand Valley State University
+Michigan
+Explore	$15,696	$8,200	$39,200
+601-800	Greenville College
+Illinois
+Explore	$24,360	$8,452	$36,900
+601-800	Harding University
+Arkansas
+Explore	$17,040	$6,516	$38,300
+601-800	Hawaii Pacific University
+Hawaii
+Explore	$21,130	$13,330	$42,900
+601-800	Heidelberg University
+Ohio
+Explore	$27,480	$9,226	$37,100
+601-800	Howard Payne University
+Texas
+Explore	$24,600	$7,154	$35,900
+601-800	Humboldt State University
+California
+Explore	$18,331	$11,644	$35,200
+601-800	Huntington University
+Indiana
+Explore	$24,771	$8,306	$34,900
+601-800	University of the Incarnate Word
+Texas
+Explore	$26,490	$10,826	$43,000
+601-800	Jackson State University
+Mississippi
+Explore	$16,174	$7,538	$29,300
+601-800	Judson University
+Illinois
+Explore	$27,530	$9,080	$38,400
+601-800	Kean University
+New Jersey
+Explore	$17,653	$12,200	$46,100
+601-800	Keene State College
+New Hampshire
+Explore	$20,784	$9,368	$39,700
+601-800	Kent State University
+Ohio
+Explore	$17,972	$9,908	$36,300
+601-800	Keuka College
+New York
+Explore	$28,010	$10,800	$42,700
+601-800	La Sierra University
+California
+Explore	$29,895	$7,650	$41,100
+601-800	University of La Verne
+California
+Explore	$36,744	$12,200	$51,400
+601-800	Lenoir-Rhyne University
+North Carolina
+Explore	$30,922	$10,740	$36,400
+601-800	Lesley University
+Massachusetts
+Explore	$24,375	$14,400	$35,900
+601-800	Life University
+Georgia
+Explore	$10,500	$12,480	$33,200
+601-800	Madonna University
+Michigan
+Explore	$17,390	$8,610	$36,700
+601-800	Malone University
+Ohio
+Explore	$26,416	$8,948	$38,800
+601-800	Marian University
+Wisconsin
+Explore	$25,930	$6,490	$38,800
+601-800	University of Mary Hardin-Baylor
+Texas
+Explore	$24,040	$7,020	$41,400
+601-800	University of Mary Washington
+Virginia
+Explore	$23,598	$10,914	$47,900
+601-800	Marymount Manhattan College
+New York
+Explore	$27,636	$15,000	$38,800
+601-800	Maryville College
+Tennessee
+Explore	$31,754	$10,088	$35,600
+601-800	University of Massachusetts-Dartmouth
+Massachusetts
+Explore	$24,619	$11,434	$45,300
+601-800	University of Massachusetts-Lowell
+Massachusetts
+Explore	$27,400	$11,278	$49,500
+601-800	The Master's College and Seminary
+California
+Explore	$29,860	$9,720	$39,600
+601-800	University of Michigan-Flint
+Michigan
+Explore	$18,922	$8,706	$40,200
+601-800	MidAmerica Nazarene University
+Kansas
+Explore	$25,340	$7,550	$39,300
+601-800	Midland University
+Nebraska
+Explore	$28,150	$7,250	$40,300
+601-800	Midwestern State University
+Texas
+Explore	$9,702	$7,374	$38,700
+601-800	Millersville University of Pennsylvania
+Pennsylvania
+Explore	$23,868	$11,380	$43,000
+601-800	University of Minnesota-Duluth
+Minnesota
+Explore	$16,467	$7,004	$43,600
+601-800	Mississippi College
+Mississippi
+Explore	$15,458	$8,408	$37,900
+601-800	University of Missouri-St Louis
+Missouri
+Explore	$24,795	$9,788	$40,200
+601-800	University of Mobile
+Alabama
+Explore	$19,475	$9,040	$36,400
+601-800	Montana State University
+Montana
+Explore	$21,391	$8,380	$39,600
+601-800	Morgan State University
+Maryland
+Explore	$16,862	$9,492	$39,100
+601-800	Mount Marty College
+South Dakota
+Explore	$22,892	$6,978	$32,300
+601-800	University of Mount Olive
+North Carolina
+Explore	$17,800	$7,295	$38,600
+601-800	Mount Saint Mary College
+New York
+Explore	$27,312	$13,556	$47,200
+601-800	Mount Vernon Nazarene University
+Ohio
+Explore	$16,095	$7,260	$39,300
+601-800	Murray State University
+Kentucky
+Explore	$20,112	$7,912	$35,400
+601-800	University of Nebraska at Omaha
+Nebraska
+Explore	$18,070	$8,408	$41,700
+601-800	University of Nevada-Las Vegas
+Nevada
+Explore	$20,500	$10,730	$43,100
+601-800	University of New Hampshire at Manchester
+New Hampshire
+Explore	$26,748	n/a	$47,400
+601-800	New Mexico State University
+New Mexico
+Explore	$19,112	$8,100	$33,300
+601-800	Newberry College
+South Carolina
+Explore	$24,075	$11,200	$31,800
+601-800	North Carolina Central University
+North Carolina
+Explore	$16,941	$9,532	$31,600
+601-800	University of North Carolina at Greensboro
+North Carolina
+Explore	$21,316	$8,090	$36,500
+601-800	North Central College
+Illinois
+Explore	$34,230	$9,795	$45,500
+601-800	North Dakota State University-Main Campus
+North Dakota
+Explore	$18,849	$7,484	$46,500
+601-800	University of North Florida
+Florida
+Explore	$18,710	$9,204	$41,300
+601-800	North Park University
+Illinois
+Explore	$24,600	$8,660	$41,900
+601-800	Northeastern Illinois University
+Illinois
+Explore	$15,026	n/a	$36,100
+601-800	Northeastern State University
+Oklahoma
+Explore	$12,635	$6,670	$34,900
+601-800	Northern Arizona University
+Arizona
+Explore	$15,550	$9,020	$38,900
+601-800	Oakland University
+Michigan
+Explore	$24,736	$8,894	$42,800
+601-800	Oakwood University
+Alabama
+Explore	$16,720	$9,700	$33,800
+601-800	Old Dominion University
+Virginia
+Explore	$25,140	$10,233	$42,900
+601-800	Oral Roberts University
+Oklahoma
+Explore	$23,410	$9,765	$35,000
+601-800	Oregon Institute of Technology
+Oregon
+Explore	$23,670	$9,032	$51,000
+601-800	Pacific Union College
+California
+Explore	$28,131	$7,485	$47,100
+601-800	Palm Beach Atlantic University
+Florida
+Explore	$26,274	$8,600	$37,600
+601-800	University of Pittsburgh-Greensburg
+Pennsylvania
+Explore	$24,188	$9,490	$48,500
+601-800	University of Pittsburgh-Johnstown
+Pennsylvania
+Explore	$24,190	$9,080	$48,500
+601-800	Point Park University
+Pennsylvania
+Explore	$27,190	$10,320	$37,200
+601-800	Portland State University
+Oregon
+Explore	$23,319	$10,119	$42,400
+601-800	Regis College
+Massachusetts
+Explore	$35,750	$13,700	$42,500
+601-800	Rockford University
+Illinois
+Explore	$27,530	$7,710	$39,200
+601-800	Rocky Mountain College
+Montana
+Explore	$24,530	$7,712	$38,500
+601-800	SUNY College at Brockport
+New York
+Explore	$17,212	$11,440	$40,700
+601-800	SUNY Buffalo State
+New York
+Explore	$16,997	$11,852	$38,500
+601-800	SUNY at Fredonia
+New York
+Explore	$17,391	$11,900	$40,100
+601-800	SUNY Maritime College
+New York
+Explore	$17,096	$11,040	$75,900
+601-800	SUNY Oneonta
+New York
+Explore	$17,198	$11,530	$42,300
+601-800	SUNY College at Oswego
+New York
+Explore	$17,231	$12,690	$40,700
+601-800	SUNY College at Plattsburgh
+New York
+Explore	$17,147	$10,972	$40,000
+601-800	SUNY College at Potsdam
+New York
+Explore	$17,203	$10,920	$37,300
+601-800	University of Saint Francis-Fort Wayne
+Indiana
+Explore	$25,589	$8,524	$39,600
+601-800	Salisbury University
+Maryland
+Explore	$16,906	$10,620	$47,300
+601-800	Sam Houston State University
+Texas
+Explore	$15,982	$8,324	$41,200
+601-800	San Francisco State University
+California
+Explore	$17,628	$13,052	$47,000
+601-800	Schreiner University
+Texas
+Explore	$24,360	$10,610	$36,500
+601-800	Seton Hill University
+Pennsylvania
+Explore	$31,280	$10,476	$35,700
+601-800	Shippensburg University of Pennsylvania
+Pennsylvania
+Explore	$18,520	$10,724	$44,900
+601-800	Sonoma State University
+California
+Explore	$18,436	$11,799	$45,000
+601-800	University of South Alabama
+Alabama
+Explore	$14,076	$7,100	$37,800
+601-800	South Carolina State University
+South Carolina
+Explore	$19,856	$8,500	$29,600
+601-800	University of South Carolina-Aiken
+South Carolina
+Explore	$18,926	$7,626	$36,400
+601-800	Southern Adventist University
+Tennessee
+Explore	$20,240	$5,850	$37,700
+601-800	Southern Connecticut State University
+Connecticut
+Explore	$20,892	$11,289	$41,200
+601-800	University of Southern Mississippi
+Mississippi
+Explore	$15,550	$7,640	$36,000
+601-800	Spalding University
+Kentucky
+Explore	$22,950	$8,400	$40,800
+601-800	Spring Arbor University
+Michigan
+Explore	$24,350	$8,460	$39,200
+601-800	University of St Francis
+Illinois
+Explore	$28,790	$8,770	$44,900
+601-800	St. Thomas Aquinas College
+New York
+Explore	$27,630	$11,680	$46,800
+601-800	College of Staten Island CUNY
+New York
+Explore	$13,268	$16,544	$41,100
+601-800	Stephen F Austin State University
+Texas
+Explore	$15,888	$8,868	$39,400
+601-800	Tennessee State University
+Tennessee
+Explore	$19,650	$6,702	$35,200
+601-800	University of Texas at Arlington
+Texas
+Explore	$18,102	$8,156	$46,100
+601-800	University of Texas at El Paso
+Texas
+Explore	$18,169	$9,300	$39,400
+601-800	University of Texas at San Antonio
+Texas
+Explore	$16,507	$9,841	$43,600
+601-800	Texas State University
+Texas
+Explore	$19,086	$7,940	$43,500
+601-800	Texas Woman's University
+Texas
+Explore	$18,696	$7,191	$44,700
+601-800	Thomas More College
+Kentucky
+Explore	$28,618	$7,770	$45,800
+601-800	Virginia Wesleyan College
+Virginia
+Explore	$33,286	$8,594	$37,500
+601-800	Viterbo University
+Wisconsin
+Explore	$23,790	$7,940	$40,600
+601-800	Walsh University
+Ohio
+Explore	$26,650	$10,720	$41,700
+601-800	Washburn University
+Kansas
+Explore	$13,526	$6,541	$38,100
+601-800	Webster University
+Missouri
+Explore	$24,600	$10,600	$39,900
+601-800	West Chester University of Pennsylvania
+Pennsylvania
+Explore	$19,594	$12,694	$46,300
+601-800	Western Carolina University
+North Carolina
+Explore	$16,698	$8,016	$35,400
+601-800	Western Kentucky University
+Kentucky
+Explore	$23,352	$7,170	$34,200
+601-800	William Jessup University
+California
+Explore	$24,990	$10,000	$38,600
+601-800	William Paterson University of New Jersey
+New Jersey
+Explore	$19,920	$10,920	$43,700
+601-800	Wingate University
+North Carolina
+Explore	$26,300	$10,400	$37,400
+601-800	Winthrop University
+South Carolina
+Explore	$27,008	$8,200	$36,100
+601-800	University of Wisconsin-Eau Claire
+Wisconsin
+Explore	$16,316	$6,775	$43,000
+601-800	University of Wisconsin-La Crosse
+Wisconsin
+Explore	$16,368	$5,910	$44,400
+601-800	University of Wisconsin-Milwaukee
+Wisconsin
+Explore	$19,120	$8,894	$41,900
+601-800	University of Wisconsin-Stout
+Wisconsin
+Explore	$16,771	$6,434	$42,300
+601-800	Wright State University-Main Campus
+Ohio
+Explore	$16,910	$10,066	$38,500
+601-800	York College Pennsylvania
+Pennsylvania
+Explore	$17,630	$9,870	$47,700
+> 800	Adams State University
+Colorado
+Explore	$18,814	$8,572	$33,000
+> 800	Alabama A&M University
+Alabama
+Explore	$16,596	$7,240	$30,800
+> 800	Alabama State University
+Alabama
+Explore	$15,656	$5,422	$27,200
+> 800	Albany State University
+Georgia
+Explore	$15,196	$7,788	$32,100
+> 800	Alderson Broaddus University
+West Virginia
+Explore	$22,740	$7,336	$43,400
+> 800	Anderson University
+South Carolina
+Explore	$23,750	$8,674	$33,200
+> 800	Angelo State University
+Texas
+Explore	$15,390	$7,602	$37,800
+> 800	Aquinas College
+Michigan
+Explore	$27,906	$8,350	$36,900
+> 800	University of Arkansas at Little Rock
+Arkansas
+Explore	$17,764	$9,225	$34,300
+> 800	University of Arkansas at Monticello
+Arkansas
+Explore	$12,052	$5,994	$32,400
+> 800	Arkansas State University-Main Campus
+Arkansas
+Explore	$13,480	$7,750	$32,200
+> 800	Arkansas Tech University
+Arkansas
+Explore	$10,878	$6,734	$34,400
+> 800	Armstrong State University
+Georgia
+Explore	$15,271	$10,266	$38,900
+> 800	Auburn University at Montgomery
+Alabama
+Explore	$19,640	$5,390	$34,900
+> 800	Aurora University
+Illinois
+Explore	$21,320	$8,710	$41,300
+> 800	Austin Peay State University
+Tennessee
+Explore	$21,664	$9,124	$34,400
+> 800	Belmont Abbey College
+North Carolina
+Explore	$18,500	$10,094	$37,600
+> 800	Bemidji State University
+Minnesota
+Explore	$8,134	$7,470	$38,100
+> 800	Black Hills State University
+South Dakota
+Explore	$10,097	$6,330	$34,400
+> 800	Bloomfield College
+New Jersey
+Explore	$26,750	$11,100	$37,500
+> 800	Boise State University
+Idaho
+Explore	$19,493	$6,829	$35,400
+> 800	University of Bridgeport
+Connecticut
+Explore	$29,920	$12,710	$41,600
+> 800	Bridgewater State University
+Massachusetts
+Explore	$14,493	$11,400	$41,900
+> 800	CUNY John Jay College of Criminal Justice
+New York
+Explore	$13,169	$18,981	$43,000
+> 800	CUNY York College
+New York
+Explore	$13,206	n/a	$38,700
+> 800	California University of Pennsylvania
+Pennsylvania
+Explore	$13,550	$10,086	$38,100
+> 800	California State University-Dominguez Hills
+California
+Explore	$17,299	$12,358	$42,600
+> 800	California State University-Los Angeles
+California
+Explore	$17,508	$12,627	$44,100
+> 800	Cameron University
+Oklahoma
+Explore	$13,380	$6,318	$33,600
+> 800	Campbellsville University
+Kentucky
+Explore	$22,842	$7,550	$32,000
+> 800	Castleton State College
+Vermont
+Explore	$25,436	$9,412	$34,700
+> 800	Cazenovia College
+New York
+Explore	$30,560	$12,344	$32,000
+> 800	Centenary College
+New Jersey
+Explore	$30,942	$10,420	$41,300
+> 800	University of Central Arkansas
+Arkansas
+Explore	$13,806	$5,778	$36,800
+> 800	University of Central Missouri
+Missouri
+Explore	$13,659	$7,972	$36,600
+> 800	Charleston Southern University
+Georgia
+Explore	$22,840	$9,000	$35,900
+> 800	Cheyney University of Pennsylvania
+Pennsylvania
+Explore	$13,744	$11,600	$29,700
+> 800	Chowan University
+North Carolina
+Explore	$22,900	$8,380	$34,400
+> 800	Clarion University of Pennsylvania
+Pennsylvania
+Explore	$13,760	$8,400	$37,000
+> 800	Clayton State University
+Georgia
+Explore	$15,251	$9,692	$37,700
+> 800	University of Colorado Colorado Springs
+Colorado
+Explore	$17,492	$9,900	$40,900
+> 800	Colorado Mesa University
+Colorado
+Explore	$17,720	$9,740	$34,600
+> 800	Colorado State University-Pueblo
+Colorado
+Explore	$18,775	$8,962	$35,800
+> 800	Columbus State University
+Georgia
+Explore	$15,931	$9,685	$35,500
+> 800	Concord University
+West Virginia
+Explore	$14,276	$7,818	$32,500
+> 800	Concordia University-Chicago
+Illinois
+Explore	$28,718	$8,992	$39,400
+> 800	Concordia University-Portland
+Oregon
+Explore	$27,420	$7,580	$41,100
+> 800	Concordia University-Texas
+Texas
+Explore	$26,960	$8,980	$40,400
+> 800	Corban University
+Oregon
+Explore	$28,640	$8,892	$34,600
+> 800	Cornerstone University
+Michigan
+Explore	$25,112	$8,226	$35,600
+> 800	Cumberland University
+Tennessee
+Explore	$20,200	$7,080	$36,600
+> 800	University of the Cumberlands
+Kentucky
+Explore	$20,000	$8,000	$32,200
+> 800	Delaware Valley University
+Pennsylvania
+Explore	$33,826	$12,337	$40,800
+> 800	Drury University
+Missouri
+Explore	$23,885	$7,956	$31,900
+> 800	East Central University
+Oklahoma
+Explore	$13,512	$5,158	$34,500
+> 800	East Stroudsburg University of Pennsylvania
+Pennsylvania
+Explore	$19,826	$7,980	$42,900
+> 800	East Tennessee State University
+Tennessee
+Explore	$24,011	$7,822	$34,400
+> 800	Eastern Kentucky University
+Kentucky
+Explore	$17,448	$8,028	$33,600
+> 800	Eastern Michigan University
+Michigan
+Explore	$25,706	$8,584	$37,200
+> 800	Edinboro University of Pennsylvania
+Pennsylvania
+Explore	$13,249	$8,612	$34,100
+> 800	Emporia State University
+Kansas
+Explore	$17,896	$7,582	$35,800
+> 800	Evangel University
+Missouri
+Explore	$20,796	$7,200	$34,300
+> 800	The Evergreen State College
+Washington
+Explore	$21,735	$9,492	$32,300
+> 800	Fairmont State University
+West Virginia
+Explore	$13,306	$7,750	$33,800
+> 800	Faulkner University
+Alabama
+Explore	$18,750	$6,780	$37,400
+> 800	Fayetteville State University
+North Carolina
+Explore	$16,263	$6,160	$30,800
+> 800	Ferrum College
+Virginia
+Explore	$29,795	$9,970	$36,400
+> 800	Fitchburg State University
+Massachusetts
+Explore	$15,340	$8,913	$41,300
+> 800	Flagler College-St Augustine
+Florida
+Explore	$16,180	$9,000	$37,000
+> 800	Florida Gulf Coast University
+Florida
+Explore	$25,162	$9,424	$41,300
+> 800	Fort Valley State University
+Georgia
+Explore	$18,954	$7,920	$28,400
+> 800	Framingham State University
+Massachusetts
+Explore	$14,400	$10,534	$44,100
+> 800	Francis Marion University
+South Carolina
+Explore	$19,004	$7,256	$32,600
+> 800	Freed-Hardeman University
+Tennessee
+Explore	$20,468	$7,390	$36,500
+> 800	Frostburg State University
+Maryland
+Explore	$19,274	$8,594	$43,500
+> 800	Georgia Southern University
+Georgia
+Explore	$16,487	$9,752	$39,400
+> 800	Georgia College and State University
+Georgia
+Explore	$27,308	$9,768	$38,700
+> 800	Glenville State College
+West Virginia
+Explore	$15,120	$9,492	$30,300
+> 800	Grace College and Theological Seminary
+Indiana
+Explore	$24,670	$7,930	$34,000
+> 800	Grand View University
+Iowa
+Explore	$23,426	$7,554	$39,700
+> 800	Henderson State University
+Arkansas
+Explore	$13,921	$6,048	$34,800
+> 800	Hilbert College
+New York
+Explore	$19,900	$8,890	$39,400
+> 800	University of Houston-Downtown
+Texas
+Explore	$14,282	n/a	$42,600
+> 800	Huntingdon College
+Alabama
+Explore	$21,249	$8,550	$36,800
+> 800	Husson University
+Maine
+Explore	$15,590	$8,604	$37,000
+> 800	Idaho State University
+Idaho
+Explore	$19,326	$8,280	$35,100
+> 800	Indiana University of Pennsylvania-Main Campus
+Pennsylvania
+Explore	$20,965	$11,346	$37,700
+> 800	Indiana State University
+Indiana
+Explore	$18,346	$9,182	$36,000
+> 800	Indiana University-Kokomo
+Indiana
+Explore	$18,081	n/a	$33,800
+> 800	Indiana University-Northwest
+Indiana
+Explore	$18,081	n/a	$36,000
+> 800	Indiana University-Purdue University-Fort Wayne
+Indiana
+Explore	$19,092	$9,242	$35,500
+> 800	Indiana University-South Bend
+Indiana
+Explore	$18,081	$8,596	$33,600
+> 800	Indiana University-Southeast
+Indiana
+Explore	$18,081	$9,208	$34,000
+> 800	Jacksonville State University
+Alabama
+Explore	$17,280	$6,985	$34,800
+> 800	University of Jamestown
+North Dakota
+Explore	$19,170	$6,780	$39,100
+> 800	Johnson & Wales University-Charlotte
+Rhode Island
+Explore	$28,239	$11,604	$35,200
+> 800	Johnson & Wales University-Denver
+Colorado
+Explore	$28,239	$10,545	$35,200
+> 800	Johnson & Wales University-North Miami
+Florida
+Explore	$28,239	$10,545	$35,200
+> 800	Johnson & Wales University-Providence
+Rhode Island
+Explore	$28,239	$10,545	$35,200
+> 800	Johnson State College
+Vermont
+Explore	$22,604	$9,412	$31,800
+> 800	Kennesaw State University
+Georgia
+Explore	$16,421	$10,836	$43,400
+> 800	Kutztown University of Pennsylvania
+Pennsylvania
+Explore	$19,479	$9,518	$41,300
+> 800	La Roche College
+Pennsylvania
+Explore	$25,500	$10,324	$39,700
+> 800	Lake Erie College
+Ohio
+Explore	$28,354	$8,912	$32,500
+> 800	Lake Superior State University
+Michigan
+Explore	$15,317	$8,987	$35,400
+> 800	Lakeland University
+Wisconsin
+Explore	$24,090	$8,294	$40,000
+> 800	Lancaster Bible College
+Pennsylvania
+Explore	$18,800	$8,170	$30,200
+> 800	Lander University
+South Carolina
+Explore	$19,738	$8,000	$33,700
+> 800	Langston University
+Oklahoma
+Explore	$11,589	$9,234	$28,400
+> 800	Lee University
+Tennessee
+Explore	$14,280	$7,520	$32,800
+> 800	Lewis-Clark State College
+Idaho
+Explore	$19,142	$6,570	$33,000
+> 800	Lindenwood University
+Missouri
+Explore	$15,580	$7,880	$39,700
+> 800	Lindsey Wilson College
+Kentucky
+Explore	$22,550	$8,670	$27,300
+> 800	Lock Haven University
+Pennsylvania
+Explore	$17,726	$8,445	$38,700
+> 800	Longwood University
+Virginia
+Explore	$25,350	$9,256	$40,200
+> 800	University of Louisiana at Lafayette
+Louisiana
+Explore	$19,272	$8,566	$37,600
+> 800	University of Louisiana at Monroe
+Louisiana
+Explore	$19,121	$6,910	$36,100
+> 800	Louisiana State University-Shreveport
+Louisiana
+Explore	$6,168	n/a	$36,200
+> 800	Louisiana Tech University
+Louisiana
+Explore	$22,635	$6,495	$40,900
+> 800	Lubbock Christian University
+Texas
+Explore	$19,600	$6,908	$37,000
+> 800	Lyndon State College
+Vermont
+Explore	$21,764	$9,412	$33,400
+> 800	Lynn University
+Florida
+Explore	$35,050	$10,900	$36,600
+> 800	University of Maine at Farmington
+Maine
+Explore	$18,305	$8,970	$33,200
+> 800	Mansfield University of Pennsylvania
+Pennsylvania
+Explore	$19,976	$10,536	$37,900
+> 800	Mars Hill University
+North Carolina
+Explore	$27,590	$8,614	$32,300
+> 800	Marshall University
+West Virginia
+Explore	$15,026	$9,546	$34,400
+> 800	University of Mary
+North Dakota
+Explore	$15,665	$5,931	$45,400
+> 800	Massachusetts College of Liberal Arts
+Massachusetts
+Explore	$17,920	$9,538	$35,600
+> 800	McNeese State University
+Louisiana
+Explore	$17,404	$7,464	$36,500
+> 800	Medaille College
+New York
+Explore	$25,002	$11,866	$38,000
+> 800	Metropolitan State University
+Minnesota
+Explore	$13,227	n/a	$44,200
+> 800	Metropolitan State University of Denver
+Colorado
+Explore	$18,888	n/a	$38,500
+> 800	Middle Tennessee State University
+Tennessee
+Explore	$24,124	$7,974	$36,000
+> 800	Milligan College
+Tennessee
+Explore	$28,730	$6,250	$36,000
+> 800	Minnesota State University Moorhead
+Minnesota
+Explore	$14,714	$7,604	$36,700
+> 800	Minnesota State University-Mankato
+Minnesota
+Explore	$15,053	$8,042	$42,500
+> 800	Missouri Baptist University
+Missouri
+Explore	$22,760	$9,070	$33,100
+> 800	Missouri Southern State University
+Missouri
+Explore	$11,156	$6,299	$32,900
+> 800	Missouri State University-Springfield
+Missouri
+Explore	$13,668	$7,864	$37,000
+> 800	Missouri Valley College
+Missouri
+Explore	$18,400	$7,700	$34,000
+> 800	Missouri Western State University
+Missouri
+Explore	$11,704	$8,350	$32,500
+> 800	University of Montana
+Montana
+Explore	$23,145	$7,564	$34,200
+> 800	Montana State University-Billings
+Montana
+Explore	$17,466	$6,980	$32,900
+> 800	Montana Tech of the University of Montana
+Montana
+Explore	$20,068	$8,238	$40,200
+> 800	The University of Montana-Western
+Montana
+Explore	$15,491	$6,536	$30,200
+> 800	University of Montevallo
+Alabama
+Explore	$21,220	$7,760	$35,000
+> 800	Morehead State University
+Kentucky
+Explore	$19,666	$7,888	$31,300
+> 800	Morningside College
+Iowa
+Explore	$27,180	$8,250	$37,800
+> 800	Mount Aloysius College
+Pennsylvania
+Explore	$20,790	$9,186	$36,800
+> 800	Mount Ida College
+Massachusetts
+Explore	$30,447	$12,500	$34,700
+> 800	University of Nebraska at Kearney
+Nebraska
+Explore	$12,742	$9,064	$38,500
+> 800	Neumann University
+Pennsylvania
+Explore	$25,860	$11,800	$40,500
+> 800	New Jersey City University
+New Jersey
+Explore	$19,424	$10,604	$41,800
+> 800	University of New Orleans
+Louisiana
+Explore	$21,002	$9,274	$38,300
+> 800	Newbury College
+Massachusetts
+Explore	$29,930	$13,340	$37,000
+> 800	Newman University
+Kansas
+Explore	$24,710	$7,060	$42,100
+> 800	Nicholls State University
+Louisiana
+Explore	$17,481	$8,673	$35,000
+> 800	Nichols College
+Massachusetts
+Explore	$32,370	$12,235	$47,700
+> 800	Norfolk State University
+Virginia
+Explore	$19,936	$8,624	$33,700
+> 800	University of North Alabama
+Alabama
+Explore	$13,268	$6,327	$36,200
+> 800	University of North Carolina at Pembroke
+North Carolina
+Explore	$15,239	$7,026	$32,800
+> 800	North Central University
+Minnesota
+Explore	$20,776	$6,360	$30,700
+> 800	North Greenville University
+South Carolina
+Explore	$15,510	$9,180	$30,400
+> 800	University of Northern Colorado
+Colorado
+Explore	$19,277	$10,560	$39,000
+> 800	Northern Kentucky University
+Kentucky
+Explore	$17,328	$8,610	$36,000
+> 800	Northern Michigan University
+Michigan
+Explore	$14,556	$8,954	$34,300
+> 800	Northwest University
+Washington
+Explore	$26,968	$7,620	$38,900
+> 800	Northwest Missouri State University
+Missouri
+Explore	$11,526	$8,226	$38,400
+> 800	Northwest Nazarene University
+Idaho
+Explore	$27,340	$6,400	$36,200
+> 800	Northwestern Oklahoma State University
+Oklahoma
+Explore	$12,271	$4,230	$35,700
+> 800	Nyack College
+New York
+Explore	$23,800	$8,800	$38,700
+> 800	Ohio Dominican University
+Ohio
+Explore	$29,430	$10,378	$38,500
+> 800	Oklahoma Baptist University
+Oklahoma
+Explore	$22,800	$6,520	$35,600
+> 800	Oklahoma Christian University
+Oklahoma
+Explore	$19,120	$6,750	$36,200
+> 800	Olivet Nazarene University
+Illinois
+Explore	$31,390	$7,900	$38,100
+> 800	Our Lady of the Lake University
+Texas
+Explore	$24,596	$7,437	$38,200
+> 800	Pennsylvania College of Technology
+Pennsylvania
+Explore	$21,930	$10,836	$39,800
+> 800	Pfeiffer University
+North Carolina
+Explore	$25,855	$9,490	$36,700
+> 800	Pittsburg State University
+Kansas
+Explore	$16,336	$7,156	$37,800
+> 800	Plymouth State University
+New Hampshire
+Explore	$20,587	$10,728	$37,400
+> 800	Prairie View A & M University
+Texas
+Explore	$20,928	$7,735	$33,800
+> 800	Purdue University-Calumet Campus
+Indiana
+Explore	$15,693	n/a	$37,100
+> 800	Quincy University
+Illinois
+Explore	$26,572	$9,968	$38,400
+> 800	Radford University
+Virginia
+Explore	$22,046	$7,960	$42,100
+> 800	Rhode Island College
+Rhode Island
+Explore	$18,300	$10,094	$39,300
+> 800	Rochester College
+Michigan
+Explore	$20,518	$6,554	$34,500
+> 800	SUNY College at Old Westbury
+New York
+Explore	$16,953	$10,390	$43,200
+> 800	SUNY at Purchase College
+New York
+Explore	$17,583	$12,232	$34,500
+> 800	Saginaw Valley State University
+Michigan
+Explore	$20,409	$8,678	$37,600
+> 800	Saint Cloud State University
+Minnesota
+Explore	$15,195	$7,560	$41,200
+> 800	Saint Mary's University of Minnesota
+Minnesota
+Explore	$30,315	$7,965	$41,600
+> 800	Salem State University
+Massachusetts
+Explore	$14,786	$11,758	$40,400
+> 800	Savannah State University
+Georgia
+Explore	$15,555	$7,330	$30,200
+> 800	University of Science and Arts of Oklahoma
+Oklahoma
+Explore	$15,210	$5,630	$31,300
+> 800	Shaw University
+North Carolina
+Explore	$16,480	$8,158	$26,900
+> 800	Shawnee State University
+Ohio
+Explore	$12,617	$9,552	$32,400
+> 800	Shepherd University
+West Virginia
+Explore	$16,628	$9,305	$38,000
+> 800	University of Sioux Falls
+South Dakota
+Explore	$25,480	$6,700	$36,700
+> 800	Slippery Rock University of Pennsylvania
+Pennsylvania
+Explore	$12,939	$9,794	$38,900
+> 800	University of South Carolina-Upstate
+South Carolina
+Explore	$20,868	$7,682	$35,900
+> 800	University of South Florida-St Petersburg
+Florida
+Explore	$16,735	$9,400	$41,300
+> 800	Southeast Missouri State University
+Missouri
+Explore	$12,450	$8,492	$35,900
+> 800	Southeastern Louisiana University
+Louisiana
+Explore	$19,111	$7,100	$35,100
+> 800	Southeastern Oklahoma State University
+Oklahoma
+Explore	$13,992	$5,864	$34,200
+> 800	Southern University and A & M College
+Louisiana
+Explore	$8,274	$8,003	$32,300
+> 800	Southern Arkansas University Main Campus
+Arkansas
+Explore	$11,106	$6,140	$34,900
+> 800	University of Southern Indiana
+Indiana
+Explore	$16,297	$7,928	$35,200
+> 800	University of Southern Maine
+Maine
+Explore	$18,508	$10,006	$36,800
+> 800	Southern Oregon University
+Oregon
+Explore	$21,294	$11,682	$37,000
+> 800	Southern Utah University
+Utah
+Explore	$18,596	$6,890	$37,600
+> 800	Southern Wesleyan University
+South Carolina
+Explore	$22,950	$8,710	$41,100
+> 800	Southwest Baptist University
+Missouri
+Explore	$20,840	$6,800	$32,300
+> 800	Southwest Minnesota State University
+Minnesota
+Explore	$8,074	$7,352	$35,900
+> 800	Southwestern Oklahoma State University
+Oklahoma
+Explore	$12,270	$5,076	$37,100
+> 800	Tarleton State University
+Texas
+Explore	$15,204	$6,836	$40,500
+> 800	Tennessee Technological University
+Tennessee
+Explore	$22,679	$8,400	$37,100
+> 800	The University of Tennessee-Chattanooga
+Tennessee
+Explore	$24,256	$9,000	$36,300
+> 800	The University of Tennessee-Martin
+Tennessee
+Explore	$21,968	$5,786	$35,200
+> 800	Texas A & M International University
+Texas
+Explore	$15,129	$8,028	$45,200
+> 800	Texas A & M University-Commerce
+Texas
+Explore	$14,580	$7,580	$37,000
+> 800	Texas A & M University-Corpus Christi
+Texas
+Explore	$16,282	$9,195	$41,800
+> 800	Texas A & M University-Kingsville
+Texas
+Explore	$18,984	$8,131	$39,200
+> 800	Texas Southern University
+Texas
+Explore	$18,986	$10,566	$30,900
+> 800	Thomas College
+Maine
+Explore	$23,460	$10,100	$35,900
+> 800	Trevecca Nazarene University
+Tennessee
+Explore	$23,126	$8,060	$39,300
+> 800	Tusculum College
+Tennessee
+Explore	$22,670	$8,500	$38,800
+> 800	Utah State University
+Utah
+Explore	$18,491	$6,720	$42,300
+> 800	Utah Valley University
+Utah
+Explore	$14,802	n/a	$43,400
+> 800	Valdosta State University
+Georgia
+Explore	$16,459	$7,864	$37,400
+> 800	Vanguard University of Southern California
+California
+Explore	$30,050	$8,870	$38,200
+> 800	Virginia State University
+Virginia
+Explore	$17,838	$10,128	$34,100
+> 800	Wayne State College
+Nebraska
+Explore	$9,804	$6,420	$36,300
+> 800	Weber State University
+Utah
+Explore	$13,838	$8,000	$42,300
+> 800	Wesley College
+Delaware
+Explore	$24,100	$10,890	$41,500
+> 800	University of West Alabama
+Alabama
+Explore	$14,886	$6,618	$33,800
+> 800	The University of West Florida
+Florida
+Explore	$18,658	$9,912	$36,000
+> 800	University of West Georgia
+Georgia
+Explore	$16,258	$8,532	$37,000
+> 800	West Liberty University
+West Virginia
+Explore	$13,540	$8,550	$33,300
+> 800	West Texas A & M University
+Texas
+Explore	$7,538	$7,376	$39,900
+> 800	West Virginia University at Parkersburg
+West Virginia
+Explore	$10,416	n/a	$28,200
+> 800	Western Connecticut State University
+Connecticut
+Explore	$20,812	$11,311	$43,300
+> 800	Western New Mexico University
+New Mexico
+Explore	$13,184	$10,256	$31,200
+> 800	Western Oregon University
+Oregon
+Explore	$22,200	$9,315	$38,600
+> 800	Western State Colorado University
+Colorado
+Explore	$18,319	$9,050	$36,200
+> 800	Westfield State University
+Massachusetts
+Explore	$14,762	$9,615	$43,100
+> 800	Wichita State University
+Kansas
+Explore	$15,299	$8,436	$39,300
+> 800	Wiley College
+Texas
+Explore	$11,482	$6,482	$27,100
+> 800	William Carey University
+Mississippi
+Explore	$11,400	$5,590	$34,400
+> 800	William Penn University
+Idaho
+Explore	$18,967	$6,298	$41,000
+> 800	William Woods University
+Missouri
+Explore	$21,260	$8,680	$34,300
+> 800	Wilmington College
+Ohio
+Explore	$29,120	$9,392	$38,500
+> 800	Winona State University
+Minnesota
+Explore	$14,250	$7,890	$42,000
+> 800	University of Wisconsin-Green Bay
+Wisconsin
+Explore	$15,331	$6,200	$38,800
+> 800	University of Wisconsin-Oshkosh
+Wisconsin
+Explore	$15,010	$6,702	$40,300
+> 800	University of Wisconsin-Parkside
+Wisconsin
+Explore	$14,899	$6,696	$36,700
+> 800	University of Wisconsin-Platteville
+Wisconsin
+Explore	$15,064	$7,050	$44,200
+> 800	University of Wisconsin-River Falls
+Wisconsin
+Explore	$15,324	$6,384	$39,900
+> 800	University of Wisconsin-Stevens Point
+Wisconsin
+Explore	$15,241	$6,390	$39,200
+> 800	University of Wisconsin-Whitewater
+Wisconsin
+Explore	$15,173	$6,144	$41,300
+> 800	Worcester State University
+Massachusetts
+Explore	$14,637	$11,255	$44,200
+> 800	Youngstown State University
+Ohio
+Explore	$8,557	$8,645	$34,200
