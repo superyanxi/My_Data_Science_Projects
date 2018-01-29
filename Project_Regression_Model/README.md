@@ -5,7 +5,8 @@ Work Flow:
 1.	Scraping web data.
 2.	Organizing and preparing data.
 3.	Training regression models.
-4.	Evaluating models.
+4.	Evaluating models. </br>
+
 Main Python Packages:
 1.	Pandas
 2.	Numpy
