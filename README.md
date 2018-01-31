@@ -9,4 +9,6 @@ Project_Natural_Language_Processing:Building a Journal Finder for Academic ML Re
 
 Project_Regression_Analysis: Analysis of Factors Affecting University Ranking :pencil2:
 
+Project_Exploratory_Data_Analysis: Exploratory Data Analysis on MTA Turnstile in New York City :station:
+
 To learn more about me, please visit my [linkedin page](https://www.linkedin.com/in/yanxi-lu) and [blog](https://yanxilu.weebly.com/)
