@@ -4,11 +4,11 @@ Hi I am Yanxi.  I would like to share with you five of my data science/machine l
 
 Project_Deep_Learning: Matching Apparel Detected in Video to Fashion Image in Database :shirt:
 
-Project_Classification_Analysis: Building a Personalized Coupon Recommendation System :gift:
+Project_Classification_Model: Building a Personalized Coupon Recommendation System :gift:
 
 Project_Natural_Language_Processing: Building a Journal Finder for Academic ML Researchers :closed_book:
 
-Project_Regression_Analysis: Analysis of Factors Affecting University Ranking :pencil2:
+Project_Regression_Model: Analysis of Factors Affecting University Ranking :pencil2:
 
 Project_Exploratory_Data_Analysis: Exploratory Data Analysis on Foot Traffic of Subway Stations in New York City :station:
 
