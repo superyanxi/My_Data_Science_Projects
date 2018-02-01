@@ -12,6 +12,6 @@ Project_Regression_Analysis: Analysis of Factors Affecting University Ranking :p
 
 Project_Exploratory_Data_Analysis: Exploratory Data Analysis on Foot Traffic of Subway Stations in New York City :station:
 
-To learn more about my background and my projects, please visit my [linkedin page](https://www.linkedin.com/in/yanxi-lu) and [blog](https://yanxilu.weebly.com/)
+To learn more about my background and my projects, please visit my [linkedin page](https://www.linkedin.com/in/yanxi-lu) and [blog](https://yanxilu.weebly.com/).
 
 :smiling_imp:
